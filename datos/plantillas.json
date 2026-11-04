@@ -1,0 +1,2483 @@
+[
+ {
+  "id": "P01",
+  "nombre": "Menú 1 🍒",
+  "emoji": "🍒",
+  "dias": {
+   "lunes": {
+    "desayuno": {
+     "platos": [
+      "D01"
+     ],
+     "bebidas": [
+      "db2",
+      "db9"
+     ],
+     "frutas": [],
+     "acomp": [],
+     "nota": "omelet de zanahoria con atún y palta y leche de almendras con avena"
+    },
+    "lonchera": {
+     "platos": [
+      "L01"
+     ],
+     "bebidas": [
+      "r01"
+     ],
+     "frutas": [
+      "f_mandarina",
+      "f_pina"
+     ],
+     "acomp": [],
+     "nota": "tortilla con queso y orégano, piña y mandarina y agua de cebada"
+    },
+    "almuerzo": {
+     "platos": [
+      "A01"
+     ],
+     "bebidas": [],
+     "frutas": [],
+     "acomp": [],
+     "nota": "patita con maní"
+    }
+   },
+   "martes": {
+    "desayuno": {
+     "platos": [
+      "D09"
+     ],
+     "bebidas": [
+      "db8"
+     ],
+     "frutas": [],
+     "acomp": [],
+     "nota": "Morcilla con camote y pan y chocolate con leche"
+    },
+    "lonchera": {
+     "platos": [
+      "L02"
+     ],
+     "bebidas": [
+      "r01"
+     ],
+     "frutas": [
+      "f_platano",
+      "f_arandano"
+     ],
+     "acomp": [],
+     "nota": "pollo deshilachado dorado con papita dorada y ketchup, arándanos y plátano y agua de cebada"
+    },
+    "almuerzo": {
+     "platos": [
+      "A02"
+     ],
+     "bebidas": [],
+     "frutas": [],
+     "acomp": [],
+     "nota": "olluco con queso y leche"
+    }
+   },
+   "miercoles": {
+    "desayuno": {
+     "platos": [
+      "D04"
+     ],
+     "bebidas": [
+      "db4"
+     ],
+     "frutas": [],
+     "acomp": [],
+     "nota": "tortilla de brócoli con queso y leche de habas"
+    },
+    "lonchera": {
+     "platos": [
+      "L04"
+     ],
+     "bebidas": [
+      "r05"
+     ],
+     "frutas": [
+      "f_mango",
+      "f_fresa"
+     ],
+     "acomp": [],
+     "nota": "pan con carne molida dorada tipo bisteck con lechuga y agua de maracuyá con mango picado y fresas picada"
+    },
+    "almuerzo": {
+     "platos": [
+      "A04"
+     ],
+     "bebidas": [],
+     "frutas": [],
+     "acomp": [],
+     "nota": "aji de gallina"
+    }
+   },
+   "jueves": {
+    "desayuno": {
+     "platos": [
+      "D10"
+     ],
+     "bebidas": [
+      "db1"
+     ],
+     "frutas": [],
+     "acomp": [
+      "AC12"
+     ],
+     "nota": "Avena con manzana y leche de soya con pan"
+    },
+    "lonchera": {
+     "platos": [
+      "L05",
+      "L22"
+     ],
+     "bebidas": [
+      "r04"
+     ],
+     "frutas": [
+      "f_arandano"
+     ],
+     "acomp": [],
+     "nota": "huevo de codorniz con yogurt , arándanos y granola y chicha morada"
+    },
+    "almuerzo": {
+     "platos": [
+      "A05"
+     ],
+     "bebidas": [],
+     "frutas": [],
+     "acomp": [],
+     "nota": "lomo saltado"
+    }
+   },
+   "viernes": {
+    "desayuno": {
+     "platos": [
+      "D11"
+     ],
+     "bebidas": [
+      "db3"
+     ],
+     "frutas": [],
+     "acomp": [
+      "AC11"
+     ],
+     "nota": "huevo sancochado con papa y ensalada de pepino con tomate con leche de maní"
+    },
+    "lonchera": {
+     "platos": [
+      "L06"
+     ],
+     "bebidas": [
+      "r04"
+     ],
+     "frutas": [
+      "f_platano",
+      "f_pera"
+     ],
+     "acomp": [],
+     "nota": "arroz chaufa con pollito , pera y plátano y chicha morada"
+    },
+    "almuerzo": {
+     "platos": [
+      "A06"
+     ],
+     "bebidas": [
+      "r04"
+     ],
+     "frutas": [],
+     "acomp": [
+      "AC04"
+     ],
+     "nota": "pica picante con chicharrón y ensalada"
+    }
+   }
+  },
+  "menus_origen": [
+   1,
+   2,
+   3,
+   4,
+   5
+  ]
+ },
+ {
+  "id": "P02",
+  "nombre": "Menú 2",
+  "emoji": null,
+  "dias": {
+   "lunes": {
+    "desayuno": {
+     "platos": [
+      "D13"
+     ],
+     "bebidas": [
+      "db1"
+     ],
+     "frutas": [],
+     "acomp": [],
+     "nota": "arroz a la cubana con agua de soya"
+    },
+    "lonchera": {
+     "platos": [
+      "L07"
+     ],
+     "bebidas": [
+      "r01"
+     ],
+     "frutas": [
+      "f_mango"
+     ],
+     "acomp": [],
+     "nota": "mango picado con choclo con queso y agua de cebada"
+    },
+    "almuerzo": {
+     "platos": [
+      "A07"
+     ],
+     "bebidas": [
+      "r01"
+     ],
+     "frutas": [],
+     "acomp": [],
+     "nota": "lomo de atún y agua de cebada"
+    }
+   },
+   "martes": {
+    "desayuno": {
+     "platos": [
+      "D02"
+     ],
+     "bebidas": [
+      "db11"
+     ],
+     "frutas": [],
+     "acomp": [
+      "AC01"
+     ],
+     "nota": "omelet de zanahoria y espinaca con arroz y leche de molido de cereales"
+    },
+    "lonchera": {
+     "platos": [
+      "L05"
+     ],
+     "bebidas": [
+      "r02"
+     ],
+     "frutas": [
+      "f_mandarina",
+      "f_platano"
+     ],
+     "acomp": [],
+     "nota": "mandarina , plátano y huevo de codorniz con agua de manzana"
+    },
+    "almuerzo": {
+     "platos": [
+      "A08"
+     ],
+     "bebidas": [
+      "r02"
+     ],
+     "frutas": [],
+     "acomp": [
+      "AC03",
+      "AC04"
+     ],
+     "nota": "tallarín verde con papa a la huancaína y lechuga con agua de manzana"
+    }
+   },
+   "miercoles": {
+    "desayuno": {
+     "platos": [
+      "D15"
+     ],
+     "bebidas": [
+      "db8",
+      "db9"
+     ],
+     "frutas": [],
+     "acomp": [],
+     "nota": "pan con guacamole de palta y queso y avena con leche"
+    },
+    "lonchera": {
+     "platos": [
+      "L08"
+     ],
+     "bebidas": [
+      "r03"
+     ],
+     "frutas": [
+      "f_pina"
+     ],
+     "acomp": [],
+     "nota": "piña picada con pan con queso y galletas de quinua y agua de manzanilla"
+    },
+    "almuerzo": {
+     "platos": [
+      "A09"
+     ],
+     "bebidas": [
+      "r03"
+     ],
+     "frutas": [],
+     "acomp": [],
+     "nota": "locro de zapallo con bistec y agua de manzanilla"
+    }
+   },
+   "jueves": {
+    "desayuno": {
+     "platos": [
+      "D14"
+     ],
+     "bebidas": [
+      "db5"
+     ],
+     "frutas": [],
+     "acomp": [],
+     "nota": "pizza casera de papa con queso y cebollita china y leche de quinua"
+    },
+    "lonchera": {
+     "platos": [
+      "L03"
+     ],
+     "bebidas": [],
+     "frutas": [
+      "f_manzana"
+     ],
+     "acomp": [],
+     "nota": "pan con pollo a la plancha, manzana …"
+    },
+    "almuerzo": {
+     "platos": [],
+     "bebidas": [],
+     "frutas": [],
+     "acomp": [],
+     "nota": ""
+    }
+   }
+  },
+  "menus_origen": [
+   6,
+   7,
+   8,
+   9
+  ]
+ },
+ {
+  "id": "P03",
+  "nombre": "Menú 3 🍓",
+  "emoji": "🍓",
+  "dias": {
+   "lunes": {
+    "desayuno": {
+     "platos": [
+      "D16"
+     ],
+     "bebidas": [
+      "db1"
+     ],
+     "frutas": [],
+     "acomp": [],
+     "nota": "pan con crema de palta con leche de soya"
+    },
+    "lonchera": {
+     "platos": [
+      "L08",
+      "L27"
+     ],
+     "bebidas": [
+      "r01"
+     ],
+     "frutas": [
+      "f_fresa"
+     ],
+     "acomp": [],
+     "nota": "fresas con leche condensada y pan con queso y agua de cebada"
+    },
+    "almuerzo": {
+     "platos": [
+      "A10"
+     ],
+     "bebidas": [
+      "r01"
+     ],
+     "frutas": [],
+     "acomp": [],
+     "nota": "guiso de caigua con pollo y agua de de cebada"
+    }
+   },
+   "martes": {
+    "desayuno": {
+     "platos": [
+      "D14"
+     ],
+     "bebidas": [
+      "db2"
+     ],
+     "frutas": [],
+     "acomp": [],
+     "nota": "pizza de papa y leche de almendras"
+    },
+    "lonchera": {
+     "platos": [
+      "L05",
+      "L10"
+     ],
+     "bebidas": [
+      "r03"
+     ],
+     "frutas": [
+      "f_mandarina"
+     ],
+     "acomp": [],
+     "nota": "mazamorra de quinua , mandarina y huevo de codorniz con agua de manzanilla"
+    },
+    "almuerzo": {
+     "platos": [
+      "A12"
+     ],
+     "bebidas": [],
+     "frutas": [],
+     "acomp": [],
+     "nota": "sopa de menestron"
+    }
+   },
+   "miercoles": {
+    "desayuno": {
+     "platos": [
+      "D20"
+     ],
+     "bebidas": [
+      "db9"
+     ],
+     "frutas": [],
+     "acomp": [],
+     "nota": "arroz con atún y avena con chocolate"
+    },
+    "lonchera": {
+     "platos": [
+      "L22"
+     ],
+     "bebidas": [
+      "r04"
+     ],
+     "frutas": [
+      "f_aguaymanto"
+     ],
+     "acomp": [],
+     "nota": "yogurt con cereal de quinua, aguaymanto y palitos con chicha morada"
+    },
+    "almuerzo": {
+     "platos": [
+      "A13"
+     ],
+     "bebidas": [],
+     "frutas": [],
+     "acomp": [
+      "AC04"
+     ],
+     "nota": "frijol canario con bisteck y ensalada"
+    }
+   },
+   "jueves": {
+    "desayuno": {
+     "platos": [
+      "D11"
+     ],
+     "bebidas": [
+      "db1"
+     ],
+     "frutas": [],
+     "acomp": [],
+     "nota": "huevo con papa y crema a la huancaína con leche de soya"
+    },
+    "lonchera": {
+     "platos": [
+      "L09"
+     ],
+     "bebidas": [
+      "r04"
+     ],
+     "frutas": [
+      "f_pina"
+     ],
+     "acomp": [],
+     "nota": "panqueque con mermelada, piña y frutos secos y chicha morada"
+    },
+    "almuerzo": {
+     "platos": [
+      "A17"
+     ],
+     "bebidas": [],
+     "frutas": [],
+     "acomp": [],
+     "nota": "sudado de pescado"
+    }
+   },
+   "viernes": {
+    "desayuno": {
+     "platos": [],
+     "bebidas": [],
+     "frutas": [],
+     "acomp": [],
+     "nota": "lec…"
+    },
+    "lonchera": {
+     "platos": [],
+     "bebidas": [],
+     "frutas": [],
+     "acomp": [],
+     "nota": ""
+    },
+    "almuerzo": {
+     "platos": [],
+     "bebidas": [],
+     "frutas": [],
+     "acomp": [],
+     "nota": ""
+    }
+   }
+  },
+  "menus_origen": [
+   10,
+   11,
+   12,
+   13,
+   14
+  ]
+ },
+ {
+  "id": "P04",
+  "nombre": "Menú 4 🍎",
+  "emoji": "🍎",
+  "dias": {
+   "martes": {
+    "desayuno": {
+     "platos": [
+      "D17"
+     ],
+     "bebidas": [
+      "db1"
+     ],
+     "frutas": [],
+     "acomp": [],
+     "nota": "pan rebosado con huevo , cebolla y papa con leche de soya"
+    },
+    "lonchera": {
+     "platos": [
+      "L11"
+     ],
+     "bebidas": [
+      "r01"
+     ],
+     "frutas": [
+      "f_manzana"
+     ],
+     "acomp": [],
+     "nota": "arroz con atún revuelto y manzana u agua de cebada"
+    },
+    "almuerzo": {
+     "platos": [
+      "A04"
+     ],
+     "bebidas": [],
+     "frutas": [],
+     "acomp": [],
+     "nota": "ají de gallina"
+    }
+   },
+   "jueves": {
+    "desayuno": {
+     "platos": [
+      "D26"
+     ],
+     "bebidas": [
+      "db7",
+      "db8"
+     ],
+     "frutas": [],
+     "acomp": [],
+     "nota": "chuño con quesito y 7 semillas con leche"
+    },
+    "lonchera": {
+     "platos": [
+      "L08",
+      "L12"
+     ],
+     "bebidas": [
+      "r07"
+     ],
+     "frutas": [
+      "f_mandarina"
+     ],
+     "acomp": [],
+     "nota": "omelet huevo con queso y Pancito y mandarina con agua de mango"
+    },
+    "almuerzo": {
+     "platos": [
+      "A19"
+     ],
+     "bebidas": [],
+     "frutas": [],
+     "acomp": [],
+     "nota": "estofado de pollo y choclo"
+    }
+   },
+   "viernes": {
+    "desayuno": {
+     "platos": [
+      "D11"
+     ],
+     "bebidas": [
+      "db9"
+     ],
+     "frutas": [],
+     "acomp": [],
+     "nota": "papa con huevo y crema de pimentón con avena y manzana"
+    },
+    "lonchera": {
+     "platos": [
+      "L09"
+     ],
+     "bebidas": [
+      "r12"
+     ],
+     "frutas": [],
+     "acomp": [],
+     "nota": "panqueque con crema de maní y miel , y jugo de leche con fresas"
+    },
+    "almuerzo": {
+     "platos": [
+      "A20"
+     ],
+     "bebidas": [
+      "r05"
+     ],
+     "frutas": [],
+     "acomp": [
+      "AC08"
+     ],
+     "nota": "tallarín saltado con papitas fritas con agua de maracuyá"
+    }
+   }
+  },
+  "menus_origen": [
+   15,
+   16,
+   17
+  ]
+ },
+ {
+  "id": "P05",
+  "nombre": "Menú 5 🍎",
+  "emoji": "🍎",
+  "dias": {
+   "martes": {
+    "desayuno": {
+     "platos": [
+      "D07"
+     ],
+     "bebidas": [
+      "db1"
+     ],
+     "frutas": [],
+     "acomp": [
+      "AC01"
+     ],
+     "nota": "tortilla de lenteja con arroz con leche de soya"
+    },
+    "lonchera": {
+     "platos": [
+      "L15"
+     ],
+     "bebidas": [
+      "r04"
+     ],
+     "frutas": [
+      "f_mandarina"
+     ],
+     "acomp": [],
+     "nota": "papita amarilla sancochada con bisteck , y mandarina y chicha morada"
+    },
+    "almuerzo": {
+     "platos": [
+      "A03"
+     ],
+     "bebidas": [],
+     "frutas": [],
+     "acomp": [],
+     "nota": "olluquito con carne y choclo"
+    }
+   },
+   "miercoles": {
+    "desayuno": {
+     "platos": [
+      "D13"
+     ],
+     "bebidas": [
+      "db7",
+      "db8"
+     ],
+     "frutas": [],
+     "acomp": [],
+     "nota": "arroz a la cubana y 7 semillas con leche"
+    },
+    "lonchera": {
+     "platos": [
+      "L05",
+      "L22"
+     ],
+     "bebidas": [
+      "r04"
+     ],
+     "frutas": [
+      "f_platano"
+     ],
+     "acomp": [],
+     "nota": "yogurt con quinua y huevo de codorniz y 1 plátano y chicha morada"
+    },
+    "almuerzo": {
+     "platos": [
+      "A21"
+     ],
+     "bebidas": [],
+     "frutas": [],
+     "acomp": [
+      "AC04"
+     ],
+     "nota": "teccte de alverja con ensalada de cebolla, tomate y lechuga"
+    }
+   },
+   "jueves": {
+    "desayuno": {
+     "platos": [
+      "D17"
+     ],
+     "bebidas": [
+      "db2"
+     ],
+     "frutas": [],
+     "acomp": [],
+     "nota": "pan rebosado con huevo, cebolla, choclo y papita y leche de almendras"
+    },
+    "lonchera": {
+     "platos": [
+      "L09"
+     ],
+     "bebidas": [
+      "r05"
+     ],
+     "frutas": [
+      "f_manzana"
+     ],
+     "acomp": [],
+     "nota": "manzana con panqueque de mermelada (2) y chifles y refresco de maracuyá"
+    },
+    "almuerzo": {
+     "platos": [
+      "A22"
+     ],
+     "bebidas": [],
+     "frutas": [],
+     "acomp": [],
+     "nota": "sopa de pollo con papita y queso"
+    }
+   },
+   "viernes": {
+    "desayuno": {
+     "platos": [
+      "D03"
+     ],
+     "bebidas": [
+      "db3"
+     ],
+     "frutas": [],
+     "acomp": [
+      "AC12"
+     ],
+     "nota": "omelet de huevo con queso y pan y leche de ajonjolí con maní"
+    },
+    "lonchera": {
+     "platos": [
+      "L06"
+     ],
+     "bebidas": [
+      "r05"
+     ],
+     "frutas": [
+      "f_mango"
+     ],
+     "acomp": [],
+     "nota": "arroz chaufa con mango picado y agua de maracuyá"
+    },
+    "almuerzo": {
+     "platos": [
+      "A23"
+     ],
+     "bebidas": [],
+     "frutas": [],
+     "acomp": [
+      "AC02",
+      "AC04"
+     ],
+     "nota": "tallarín rojo con atún y papita sancochada con lechuga"
+    }
+   }
+  },
+  "menus_origen": [
+   18,
+   19,
+   20,
+   21
+  ]
+ },
+ {
+  "id": "P06",
+  "nombre": "Menú 6 🍎",
+  "emoji": "🍎",
+  "dias": {
+   "jueves": {
+    "desayuno": {
+     "platos": [
+      "D17"
+     ],
+     "bebidas": [
+      "db2"
+     ],
+     "frutas": [],
+     "acomp": [],
+     "nota": "pan rebosado con huevo, cebolla, choclo y papita y leche de almendras"
+    },
+    "lonchera": {
+     "platos": [
+      "L09"
+     ],
+     "bebidas": [
+      "r05"
+     ],
+     "frutas": [
+      "f_manzana"
+     ],
+     "acomp": [],
+     "nota": "manzana con panqueque de mermelada (2) y papas lays y refresco de maracuyá"
+    },
+    "almuerzo": {
+     "platos": [
+      "A24"
+     ],
+     "bebidas": [],
+     "frutas": [],
+     "acomp": [
+      "AC04"
+     ],
+     "nota": "guiso de quinua con queso y chuleta frita y ensalada"
+    }
+   },
+   "viernes": {
+    "desayuno": {
+     "platos": [
+      "D03"
+     ],
+     "bebidas": [
+      "db3"
+     ],
+     "frutas": [],
+     "acomp": [
+      "AC12"
+     ],
+     "nota": "omelet de queso con huevo y pan y leche de ajonjolí con maní"
+    },
+    "lonchera": {
+     "platos": [
+      "L06"
+     ],
+     "bebidas": [
+      "r05"
+     ],
+     "frutas": [
+      "f_mango"
+     ],
+     "acomp": [],
+     "nota": "arroz chaufa con mango picado y agua de maracuyá"
+    },
+    "almuerzo": {
+     "platos": [
+      "A23"
+     ],
+     "bebidas": [],
+     "frutas": [],
+     "acomp": [
+      "AC02",
+      "AC04"
+     ],
+     "nota": "tallarín rojo con atún y papita sancochada con lechuga"
+    }
+   }
+  },
+  "menus_origen": [
+   22,
+   23
+  ]
+ },
+ {
+  "id": "P07",
+  "nombre": "Menú 7 🍎",
+  "emoji": "🍎",
+  "dias": {
+   "lunes": {
+    "desayuno": {
+     "platos": [
+      "D21"
+     ],
+     "bebidas": [
+      "db8",
+      "db9"
+     ],
+     "frutas": [],
+     "acomp": [],
+     "nota": "papa con atún con avena y leche de vaca"
+    },
+    "lonchera": {
+     "platos": [
+      "L09",
+      "L22"
+     ],
+     "bebidas": [
+      "r01"
+     ],
+     "frutas": [
+      "f_platano",
+      "f_manzana"
+     ],
+     "acomp": [],
+     "nota": "panqueque de plátano con queso, yogurt y manzana , y agua de y agua de cebada"
+    },
+    "almuerzo": {
+     "platos": [
+      "A25"
+     ],
+     "bebidas": [],
+     "frutas": [],
+     "acomp": [
+      "AC04"
+     ],
+     "nota": "arroz con pollo , ensalada de lechuga y cebolla"
+    }
+   },
+   "martes": {
+    "desayuno": {
+     "platos": [
+      "D15"
+     ],
+     "bebidas": [
+      "db2"
+     ],
+     "frutas": [],
+     "acomp": [],
+     "nota": "pan con guacamole de palta y leche de almendras"
+    },
+    "lonchera": {
+     "platos": [
+      "L14"
+     ],
+     "bebidas": [
+      "r02"
+     ],
+     "frutas": [
+      "f_arandano"
+     ],
+     "acomp": [],
+     "nota": "hamburguesa con arándanos y agua de manzana licuada"
+    },
+    "almuerzo": {
+     "platos": [
+      "A09"
+     ],
+     "bebidas": [],
+     "frutas": [],
+     "acomp": [],
+     "nota": "locro de zapallo con huevo frito"
+    }
+   },
+   "miercoles": {
+    "desayuno": {
+     "platos": [
+      "D25"
+     ],
+     "bebidas": [
+      "db7"
+     ],
+     "frutas": [],
+     "acomp": [],
+     "nota": "pollo deshilachado con apio y mayonesa y pan con leche de 7 semillas"
+    },
+    "lonchera": {
+     "platos": [
+      "L10"
+     ],
+     "bebidas": [
+      "r07"
+     ],
+     "frutas": [
+      "f_platano"
+     ],
+     "acomp": [],
+     "nota": "mazamorra de arroz con leche con frutos secos y 1 plátano y agua de mango licuado"
+    },
+    "almuerzo": {
+     "platos": [
+      "A14"
+     ],
+     "bebidas": [],
+     "frutas": [],
+     "acomp": [
+      "AC04"
+     ],
+     "nota": "fréjol Castilla con chuleta y ensalada"
+    }
+   },
+   "jueves": {
+    "desayuno": {
+     "platos": [
+      "D19"
+     ],
+     "bebidas": [
+      "db3"
+     ],
+     "frutas": [],
+     "acomp": [],
+     "nota": "coliflor rebosado con arroz y leche de ajonjolí con maní"
+    },
+    "lonchera": {
+     "platos": [
+      "L05",
+      "L13"
+     ],
+     "bebidas": [
+      "r06"
+     ],
+     "frutas": [
+      "f_uva"
+     ],
+     "acomp": [],
+     "nota": "tortilla de zanahoria con crema de choco maní, uvas y huevo de codorniz con agua de piña"
+    },
+    "almuerzo": {
+     "platos": [
+      "A26"
+     ],
+     "bebidas": [],
+     "frutas": [],
+     "acomp": [],
+     "nota": "Asado de pollo"
+    }
+   },
+   "viernes": {
+    "desayuno": {
+     "platos": [
+      "D27",
+      "D28"
+     ],
+     "bebidas": [
+      "db8"
+     ],
+     "frutas": [],
+     "acomp": [],
+     "nota": "quinua con manzana y leche pan con camote"
+    },
+    "lonchera": {
+     "platos": [
+      "L07"
+     ],
+     "bebidas": [
+      "r04"
+     ],
+     "frutas": [
+      "f_mandarina"
+     ],
+     "acomp": [],
+     "nota": "choclo con queso y papita con mandarina y no con mermelada y agua de chicha morada"
+    },
+    "almuerzo": {
+     "platos": [
+      "A27"
+     ],
+     "bebidas": [],
+     "frutas": [],
+     "acomp": [],
+     "nota": "lomito de pollo con alverjita"
+    }
+   }
+  },
+  "menus_origen": [
+   24,
+   25,
+   26,
+   27,
+   28
+  ]
+ },
+ {
+  "id": "P08",
+  "nombre": "Menú 8 🍎",
+  "emoji": "🍎",
+  "dias": {
+   "lunes": {
+    "desayuno": {
+     "platos": [
+      "D06"
+     ],
+     "bebidas": [
+      "db6"
+     ],
+     "frutas": [],
+     "acomp": [],
+     "nota": "maca con leche y tortilla de queso con papa y cebollita china"
+    },
+    "lonchera": {
+     "platos": [
+      "L09"
+     ],
+     "bebidas": [
+      "r01"
+     ],
+     "frutas": [
+      "f_fresa"
+     ],
+     "acomp": [],
+     "nota": "panqueque zanahoria con choco maní y miel con fresas y pistachos y agua de cebada"
+    },
+    "almuerzo": {
+     "platos": [
+      "A28"
+     ],
+     "bebidas": [],
+     "frutas": [],
+     "acomp": [],
+     "nota": "guiso de vainita con pollo picadito"
+    }
+   },
+   "martes": {
+    "desayuno": {
+     "platos": [
+      "D24"
+     ],
+     "bebidas": [
+      "db2",
+      "db9"
+     ],
+     "frutas": [],
+     "acomp": [],
+     "nota": "pan con atún con cebolla y palta y leche de almendras con avena"
+    },
+    "lonchera": {
+     "platos": [
+      "L03"
+     ],
+     "bebidas": [
+      "r01"
+     ],
+     "frutas": [
+      "f_uva"
+     ],
+     "acomp": [],
+     "nota": "pollito a la plancha con papitas doradas , uva y agua de cebada"
+    },
+    "almuerzo": {
+     "platos": [
+      "A08"
+     ],
+     "bebidas": [],
+     "frutas": [],
+     "acomp": [
+      "AC03"
+     ],
+     "nota": "tallarín verde con papa a la huancaína"
+    }
+   },
+   "miercoles": {
+    "desayuno": {
+     "platos": [
+      "D25"
+     ],
+     "bebidas": [
+      "db1"
+     ],
+     "frutas": [],
+     "acomp": [],
+     "nota": "pollo deshilachado con apio y mayonesa y pan con leche de soya"
+    },
+    "lonchera": {
+     "platos": [
+      "L10"
+     ],
+     "bebidas": [
+      "r05"
+     ],
+     "frutas": [
+      "f_pina"
+     ],
+     "acomp": [],
+     "nota": "mazamorra de arroz con leche con frutos secos y piña y agua de maracuyá"
+    },
+    "almuerzo": {
+     "platos": [
+      "A30"
+     ],
+     "bebidas": [],
+     "frutas": [],
+     "acomp": [
+      "AC04"
+     ],
+     "nota": "alverjita verde con pollo asado y ensalada de lechuga, cebolla y tomate"
+    }
+   },
+   "jueves": {
+    "desayuno": {
+     "platos": [
+      "D13"
+     ],
+     "bebidas": [
+      "db3"
+     ],
+     "frutas": [],
+     "acomp": [],
+     "nota": "arroz a la cubana con leche de ajonjolí con maní"
+    },
+    "lonchera": {
+     "platos": [
+      "L05",
+      "L08"
+     ],
+     "bebidas": [
+      "r06"
+     ],
+     "frutas": [
+      "f_manzana"
+     ],
+     "acomp": [],
+     "nota": "pan con queso pizza , con huevo de codorniz, manzana y agua de piña"
+    },
+    "almuerzo": {
+     "platos": [
+      "A31"
+     ],
+     "bebidas": [],
+     "frutas": [],
+     "acomp": [],
+     "nota": "sopa de chuño con carne y choclo"
+    }
+   },
+   "viernes": {
+    "desayuno": {
+     "platos": [
+      "D05",
+      "D27"
+     ],
+     "bebidas": [
+      "db8"
+     ],
+     "frutas": [],
+     "acomp": [
+      "AC12"
+     ],
+     "nota": "quinua entera con manzana y leche con pan con tortilla de espinaca con zanahoria"
+    },
+    "lonchera": {
+     "platos": [
+      "L07",
+      "L26"
+     ],
+     "bebidas": [
+      "r06"
+     ],
+     "frutas": [
+      "f_mandarina"
+     ],
+     "acomp": [],
+     "nota": "choclo con queso y papita con mandarina y pan con mermelada y agua de piña"
+    },
+    "almuerzo": {
+     "platos": [
+      "A18"
+     ],
+     "bebidas": [],
+     "frutas": [],
+     "acomp": [
+      "AC04"
+     ],
+     "nota": "pescado frito con arroz y papa y ensalada"
+    }
+   }
+  },
+  "menus_origen": [
+   29,
+   30,
+   31,
+   32,
+   33
+  ]
+ },
+ {
+  "id": "P09",
+  "nombre": "Menú 9 🍎",
+  "emoji": "🍎",
+  "dias": {
+   "martes": {
+    "desayuno": {
+     "platos": [
+      "D11"
+     ],
+     "bebidas": [
+      "db8",
+      "db9"
+     ],
+     "frutas": [],
+     "acomp": [],
+     "nota": "papa con huevo y crema de pimentón con avena y leche"
+    },
+    "lonchera": {
+     "platos": [
+      "L15"
+     ],
+     "bebidas": [
+      "r01"
+     ],
+     "frutas": [
+      "f_uva",
+      "f_platano"
+     ],
+     "acomp": [],
+     "nota": "bisteck con papitas doradas , uva, plátano y agua de cebada"
+    },
+    "almuerzo": {
+     "platos": [
+      "A32"
+     ],
+     "bebidas": [],
+     "frutas": [],
+     "acomp": [
+      "AC09"
+     ],
+     "nota": "seco de pollo con ensalada de cebolla"
+    }
+   },
+   "miercoles": {
+    "desayuno": {
+     "platos": [
+      "D21"
+     ],
+     "bebidas": [
+      "db1"
+     ],
+     "frutas": [],
+     "acomp": [],
+     "nota": "papa frita con atún leche de soya"
+    },
+    "lonchera": {
+     "platos": [
+      "L09",
+      "L27"
+     ],
+     "bebidas": [
+      "r05"
+     ],
+     "frutas": [
+      "f_arandano",
+      "f_manzana"
+     ],
+     "acomp": [],
+     "nota": "panqueque de arándanos con leche condensada , manzana y agua de maracuyá"
+    },
+    "almuerzo": {
+     "platos": [
+      "A22"
+     ],
+     "bebidas": [],
+     "frutas": [],
+     "acomp": [],
+     "nota": "sopa de pollo con fideo chino y verduras con choclo y queso"
+    }
+   },
+   "jueves": {
+    "desayuno": {
+     "platos": [
+      "D26"
+     ],
+     "bebidas": [],
+     "frutas": [],
+     "acomp": [],
+     "nota": "chuño con queso y quinua molida"
+    },
+    "lonchera": {
+     "platos": [
+      "L16"
+     ],
+     "bebidas": [
+      "r06"
+     ],
+     "frutas": [
+      "f_mandarina"
+     ],
+     "acomp": [],
+     "nota": "apanado con arroz , mandarina y agua de piña"
+    },
+    "almuerzo": {
+     "platos": [
+      "A33"
+     ],
+     "bebidas": [],
+     "frutas": [],
+     "acomp": [],
+     "nota": "guiso de coliflor con carne"
+    }
+   },
+   "viernes": {
+    "desayuno": {
+     "platos": [
+      "D31"
+     ],
+     "bebidas": [
+      "db2",
+      "db9"
+     ],
+     "frutas": [],
+     "acomp": [],
+     "nota": "leche de almendras con avena y pan con huevo y queso"
+    },
+    "lonchera": {
+     "platos": [
+      "L17"
+     ],
+     "bebidas": [],
+     "frutas": [
+      "f_mango"
+     ],
+     "acomp": [],
+     "nota": "pan con guacamole de palta , mango picado y chifles"
+    },
+    "almuerzo": {
+     "platos": [
+      "A34"
+     ],
+     "bebidas": [],
+     "frutas": [],
+     "acomp": [
+      "AC04"
+     ],
+     "nota": "costillar frito con papas doradas y arroz y ensalada"
+    }
+   }
+  },
+  "menus_origen": [
+   34,
+   35,
+   36,
+   37
+  ]
+ },
+ {
+  "id": "P10",
+  "nombre": "Menú 10 🍎",
+  "emoji": "🍎",
+  "dias": {
+   "miercoles": {
+    "desayuno": {
+     "platos": [
+      "D08"
+     ],
+     "bebidas": [
+      "db1"
+     ],
+     "frutas": [],
+     "acomp": [],
+     "nota": "tortilla con atún y palta leche de soya"
+    },
+    "lonchera": {
+     "platos": [
+      "L16"
+     ],
+     "bebidas": [
+      "r04"
+     ],
+     "frutas": [
+      "f_platano",
+      "f_granadilla"
+     ],
+     "acomp": [],
+     "nota": "pan con apanado y papitas, granadilla y plátano y chicha morada"
+    },
+    "almuerzo": {
+     "platos": [
+      "A22"
+     ],
+     "bebidas": [],
+     "frutas": [],
+     "acomp": [],
+     "nota": "sopa de pollo con choclo y queso"
+    }
+   },
+   "jueves": {
+    "desayuno": {
+     "platos": [
+      "D05"
+     ],
+     "bebidas": [
+      "db9"
+     ],
+     "frutas": [],
+     "acomp": [
+      "AC01"
+     ],
+     "nota": "tortilla de verduras con arroz y agua de avena con chocolate"
+    },
+    "lonchera": {
+     "platos": [
+      "L09"
+     ],
+     "bebidas": [
+      "r04"
+     ],
+     "frutas": [
+      "f_mandarina"
+     ],
+     "acomp": [],
+     "nota": "panqueque de beterraga, quesitos en trocitos, con harina, mandarina y chicha morada"
+    },
+    "almuerzo": {
+     "platos": [
+      "A04"
+     ],
+     "bebidas": [],
+     "frutas": [],
+     "acomp": [],
+     "nota": "ají de gallina"
+    }
+   },
+   "viernes": {
+    "desayuno": {
+     "platos": [
+      "D28"
+     ],
+     "bebidas": [
+      "db2",
+      "db9"
+     ],
+     "frutas": [],
+     "acomp": [],
+     "nota": "leche de almendras con avena y pan con camote"
+    },
+    "lonchera": {
+     "platos": [
+      "L05"
+     ],
+     "bebidas": [],
+     "frutas": [
+      "f_fresa",
+      "f_manzana"
+     ],
+     "acomp": [],
+     "nota": "huevo de codorniz con papita dorada manzana , y fresas"
+    },
+    "almuerzo": {
+     "platos": [
+      "A35"
+     ],
+     "bebidas": [],
+     "frutas": [],
+     "acomp": [],
+     "nota": "tallarín con atún"
+    }
+   }
+  },
+  "menus_origen": [
+   38,
+   39,
+   40
+  ]
+ },
+ {
+  "id": "P11",
+  "nombre": "Menú 11 🍎",
+  "emoji": "🍎",
+  "dias": {
+   "miercoles": {
+    "desayuno": {
+     "platos": [
+      "D03"
+     ],
+     "bebidas": [
+      "db1"
+     ],
+     "frutas": [],
+     "acomp": [
+      "AC12"
+     ],
+     "nota": "pan con omelet de huevo y queso y leche de soya"
+    },
+    "lonchera": {
+     "platos": [
+      "L09",
+      "L12"
+     ],
+     "bebidas": [],
+     "frutas": [
+      "f_platano",
+      "f_arandano"
+     ],
+     "acomp": [],
+     "nota": "crepa con arándanos , plátano, con pan con omelet de atún"
+    },
+    "almuerzo": {
+     "platos": [
+      "A36"
+     ],
+     "bebidas": [],
+     "frutas": [],
+     "acomp": [],
+     "nota": "tallarín con pollo, arverjita y papá a la huancaína"
+    }
+   },
+   "jueves": {
+    "desayuno": {
+     "platos": [
+      "D28"
+     ],
+     "bebidas": [
+      "db9"
+     ],
+     "frutas": [],
+     "acomp": [],
+     "nota": "pan con camote frito con chuleta y avena"
+    },
+    "lonchera": {
+     "platos": [
+      "L21"
+     ],
+     "bebidas": [
+      "r04"
+     ],
+     "frutas": [
+      "f_pera"
+     ],
+     "acomp": [],
+     "nota": "choclo rebosado huevo y ketchup con chicha morada, pera ñ"
+    },
+    "almuerzo": {
+     "platos": [
+      "A37"
+     ],
+     "bebidas": [],
+     "frutas": [],
+     "acomp": [
+      "AC09"
+     ],
+     "nota": "Puré con asado y ensalada de cebolla"
+    }
+   },
+   "viernes": {
+    "desayuno": {
+     "platos": [
+      "D11"
+     ],
+     "bebidas": [
+      "db10"
+     ],
+     "frutas": [],
+     "acomp": [],
+     "nota": "papa con huevo y qapchi Con agua de chocolate"
+    },
+    "lonchera": {
+     "platos": [
+      "L03"
+     ],
+     "bebidas": [],
+     "frutas": [
+      "f_platano",
+      "f_manzana"
+     ],
+     "acomp": [],
+     "nota": "pan con pollo y apio con mayonesa, manzana y plátano"
+    },
+    "almuerzo": {
+     "platos": [
+      "A12"
+     ],
+     "bebidas": [],
+     "frutas": [],
+     "acomp": [],
+     "nota": "sopa de menestrón"
+    }
+   }
+  },
+  "menus_origen": [
+   41,
+   42,
+   43
+  ]
+ },
+ {
+  "id": "P12",
+  "nombre": "Menú 12 🍅",
+  "emoji": "🍅",
+  "dias": {
+   "lunes": {
+    "desayuno": {
+     "platos": [
+      "D13"
+     ],
+     "bebidas": [
+      "db1"
+     ],
+     "frutas": [],
+     "acomp": [],
+     "nota": "arroz a la cubana con leche de soya"
+    },
+    "lonchera": {
+     "platos": [
+      "L08"
+     ],
+     "bebidas": [
+      "r01"
+     ],
+     "frutas": [
+      "f_mango",
+      "f_arandano"
+     ],
+     "acomp": [],
+     "nota": "mango picado, arándanos y pan con queso pizza y agua de cebada"
+    },
+    "almuerzo": {
+     "platos": [
+      "A09"
+     ],
+     "bebidas": [],
+     "frutas": [],
+     "acomp": [],
+     "nota": "locro de zapallo"
+    }
+   },
+   "martes": {
+    "desayuno": {
+     "platos": [
+      "D18"
+     ],
+     "bebidas": [
+      "db6"
+     ],
+     "frutas": [],
+     "acomp": [
+      "AC01"
+     ],
+     "nota": "papa frita con huevo rebosado y arroz y leche de maca"
+    },
+    "lonchera": {
+     "platos": [
+      "L04",
+      "L22"
+     ],
+     "bebidas": [
+      "r01"
+     ],
+     "frutas": [
+      "f_manzana"
+     ],
+     "acomp": [],
+     "nota": "yogurt con cereales , manzana y pan con bisteck y agua de cebada"
+    },
+    "almuerzo": {
+     "platos": [
+      "A38"
+     ],
+     "bebidas": [],
+     "frutas": [],
+     "acomp": [
+      "AC04"
+     ],
+     "nota": "escabeche de pollo con lechuga"
+    }
+   },
+   "miercoles": {
+    "desayuno": {
+     "platos": [
+      "D22"
+     ],
+     "bebidas": [],
+     "frutas": [],
+     "acomp": [],
+     "nota": "espinaca con atún y papa sancochada"
+    },
+    "lonchera": {
+     "platos": [
+      "L17"
+     ],
+     "bebidas": [
+      "r02"
+     ],
+     "frutas": [
+      "f_mandarina",
+      "f_platano"
+     ],
+     "acomp": [],
+     "nota": "pan con palta , plátano y mandarina y agua de manzana"
+    },
+    "almuerzo": {
+     "platos": [
+      "A39"
+     ],
+     "bebidas": [],
+     "frutas": [],
+     "acomp": [
+      "AC04"
+     ],
+     "nota": "quinua con chuleta y ensalada de lechuga , tomate y cebolla"
+    }
+   },
+   "jueves": {
+    "desayuno": {
+     "platos": [
+      "D12"
+     ],
+     "bebidas": [
+      "db2"
+     ],
+     "frutas": [],
+     "acomp": [],
+     "nota": "papa con queso, cebollita china y huevo con leche de almendras"
+    },
+    "lonchera": {
+     "platos": [
+      "L03"
+     ],
+     "bebidas": [],
+     "frutas": [
+      "f_uva",
+      "f_manzana"
+     ],
+     "acomp": [],
+     "nota": "pan con pollo deshilachado y apio con manzana y uvas y leche de almendra"
+    },
+    "almuerzo": {
+     "platos": [
+      "A46"
+     ],
+     "bebidas": [],
+     "frutas": [],
+     "acomp": [],
+     "nota": "arverjita verde con pescado …"
+    }
+   }
+  },
+  "menus_origen": [
+   44,
+   45,
+   46,
+   47
+  ]
+ },
+ {
+  "id": "P13",
+  "nombre": "Menú 13 🍅",
+  "emoji": "🍅",
+  "dias": {
+   "lunes": {
+    "desayuno": {
+     "platos": [
+      "D21"
+     ],
+     "bebidas": [
+      "db1"
+     ],
+     "frutas": [],
+     "acomp": [],
+     "nota": "papa con atún con leche de soya"
+    },
+    "lonchera": {
+     "platos": [
+      "L19"
+     ],
+     "bebidas": [
+      "r03"
+     ],
+     "frutas": [
+      "f_platano",
+      "f_durazno",
+      "f_granadilla"
+     ],
+     "acomp": [],
+     "nota": "pan con huevo frito , durazno , plátano y granadilla y agua de manzanilla"
+    },
+    "almuerzo": {
+     "platos": [
+      "A15"
+     ],
+     "bebidas": [],
+     "frutas": [],
+     "acomp": [
+      "AC04"
+     ],
+     "nota": "lentejas con pollo a la plancha y ensalada"
+    }
+   },
+   "martes": {
+    "desayuno": {
+     "platos": [
+      "D14"
+     ],
+     "bebidas": [
+      "db6"
+     ],
+     "frutas": [],
+     "acomp": [],
+     "nota": "papa pizza con queso y huevo y cebollita china con leche de maca"
+    },
+    "lonchera": {
+     "platos": [
+      "L05",
+      "L22"
+     ],
+     "bebidas": [
+      "r10"
+     ],
+     "frutas": [
+      "f_fresa"
+     ],
+     "acomp": [],
+     "nota": "yogurt con granola y fresas y huevo de codorniz y agua de hierbas"
+    },
+    "almuerzo": {
+     "platos": [
+      "A11"
+     ],
+     "bebidas": [],
+     "frutas": [],
+     "acomp": [],
+     "nota": "caigua rellena"
+    }
+   },
+   "miercoles": {
+    "desayuno": {
+     "platos": [
+      "D09"
+     ],
+     "bebidas": [
+      "db5"
+     ],
+     "frutas": [],
+     "acomp": [],
+     "nota": "pan con camote y morcilla y leche de quinua"
+    },
+    "lonchera": {
+     "platos": [
+      "L28"
+     ],
+     "bebidas": [
+      "r01"
+     ],
+     "frutas": [
+      "f_pina",
+      "f_manzana"
+     ],
+     "acomp": [],
+     "nota": "piña picada,manzana y papa con apanado y agua de cebada"
+    },
+    "almuerzo": {
+     "platos": [
+      "A16"
+     ],
+     "bebidas": [],
+     "frutas": [],
+     "acomp": [],
+     "nota": "garbanzo con carne picada y espinaca"
+    }
+   },
+   "jueves": {
+    "desayuno": {
+     "platos": [
+      "D02"
+     ],
+     "bebidas": [
+      "db2"
+     ],
+     "frutas": [],
+     "acomp": [
+      "AC12"
+     ],
+     "nota": "pan con omelet de zanahoria y leche de almendras"
+    },
+    "lonchera": {
+     "platos": [
+      "L17"
+     ],
+     "bebidas": [
+      "r06"
+     ],
+     "frutas": [
+      "f_uva",
+      "f_mandarina"
+     ],
+     "acomp": [],
+     "nota": "pan con crema de palta y cebollita, mandarina , uvas y galletita y agua de piña"
+    },
+    "almuerzo": {
+     "platos": [
+      "A41"
+     ],
+     "bebidas": [],
+     "frutas": [],
+     "acomp": [],
+     "nota": "pollo al sillas con camotes"
+    }
+   }
+  },
+  "menus_origen": [
+   49,
+   50,
+   51,
+   52
+  ]
+ },
+ {
+  "id": "P14",
+  "nombre": "Menú 14 🍇",
+  "emoji": "🍇",
+  "dias": {
+   "martes": {
+    "desayuno": {
+     "platos": [
+      "D02"
+     ],
+     "bebidas": [
+      "db9"
+     ],
+     "frutas": [],
+     "acomp": [
+      "AC12"
+     ],
+     "nota": "omelet de huevo con espinaca con y queso rallado y Pancito con avena"
+    },
+    "lonchera": {
+     "platos": [
+      "L05",
+      "L09"
+     ],
+     "bebidas": [
+      "r09"
+     ],
+     "frutas": [
+      "f_mandarina",
+      "f_arandano"
+     ],
+     "acomp": [],
+     "nota": "panqueque con arándanos y Nutella ,mandarina y huevo de codorniz con agua de linaza y limón"
+    },
+    "almuerzo": {
+     "platos": [
+      "A42"
+     ],
+     "bebidas": [],
+     "frutas": [],
+     "acomp": [],
+     "nota": "ensalada rusa con alitas Broaster"
+    }
+   },
+   "jueves": {
+    "desayuno": {
+     "platos": [
+      "D23"
+     ],
+     "bebidas": [
+      "db2"
+     ],
+     "frutas": [],
+     "acomp": [],
+     "nota": "palta con atún y Pancito y leche de almendras"
+    },
+    "lonchera": {
+     "platos": [
+      "L19",
+      "L27"
+     ],
+     "bebidas": [
+      "r11"
+     ],
+     "frutas": [
+      "f_fresa"
+     ],
+     "acomp": [],
+     "nota": "fresas con leche condensada , pan con huevo frito y jugo de plátano con leche"
+    },
+    "almuerzo": {
+     "platos": [
+      "A43"
+     ],
+     "bebidas": [],
+     "frutas": [],
+     "acomp": [],
+     "nota": "caldo de pollo tipo caldo de gallina"
+    }
+   },
+   "viernes": {
+    "desayuno": {
+     "platos": [
+      "D28"
+     ],
+     "bebidas": [
+      "db9"
+     ],
+     "frutas": [],
+     "acomp": [],
+     "nota": "pan con camote , 1 huevo cocido y chocolate con avena"
+    },
+    "lonchera": {
+     "platos": [
+      "L06"
+     ],
+     "bebidas": [
+      "r02"
+     ],
+     "frutas": [
+      "f_mandarina"
+     ],
+     "acomp": [],
+     "nota": "Arroz chaufa con pollito y huevo ,mandarina y agua de manzana"
+    },
+    "almuerzo": {
+     "platos": [
+      "A29"
+     ],
+     "bebidas": [],
+     "frutas": [],
+     "acomp": [],
+     "nota": "vainita saltada"
+    }
+   }
+  },
+  "menus_origen": [
+   53,
+   54,
+   55
+  ]
+ },
+ {
+  "id": "P15",
+  "nombre": "Menú 15 🍇",
+  "emoji": "🍇",
+  "dias": {
+   "lunes": {
+    "desayuno": {
+     "platos": [
+      "D05"
+     ],
+     "bebidas": [
+      "db2"
+     ],
+     "frutas": [],
+     "acomp": [
+      "AC12"
+     ],
+     "nota": "leche de almendras y pan con tortilla de zanahoria con espinaca"
+    },
+    "lonchera": {
+     "platos": [
+      "L19"
+     ],
+     "bebidas": [
+      "r08",
+      "r12"
+     ],
+     "frutas": [],
+     "acomp": [],
+     "nota": "pan con huevo frito , jugo de leche con fresa, chifles agua de carambola"
+    },
+    "almuerzo": {
+     "platos": [
+      "A15"
+     ],
+     "bebidas": [],
+     "frutas": [],
+     "acomp": [],
+     "nota": "lentejita con carne de chanchito"
+    }
+   },
+   "martes": {
+    "desayuno": {
+     "platos": [
+      "D24"
+     ],
+     "bebidas": [
+      "db7"
+     ],
+     "frutas": [],
+     "acomp": [],
+     "nota": "pan con atún con cebolla y tomate y leche de 7 semillas"
+    },
+    "lonchera": {
+     "platos": [
+      "L03"
+     ],
+     "bebidas": [
+      "r08"
+     ],
+     "frutas": [
+      "f_uva",
+      "f_platano"
+     ],
+     "acomp": [],
+     "nota": "pollito a la plancha con papitas doradas , uva y plátano y agua de carambola"
+    },
+    "almuerzo": {
+     "platos": [
+      "A20"
+     ],
+     "bebidas": [],
+     "frutas": [],
+     "acomp": [],
+     "nota": "tallarín saltado"
+    }
+   },
+   "miercoles": {
+    "desayuno": {
+     "platos": [
+      "D25"
+     ],
+     "bebidas": [
+      "db1"
+     ],
+     "frutas": [],
+     "acomp": [],
+     "nota": "pollo deshilachado con apio y mayonesa y pan con leche de soya"
+    },
+    "lonchera": {
+     "platos": [
+      "L05",
+      "L10"
+     ],
+     "bebidas": [
+      "r04"
+     ],
+     "frutas": [
+      "f_mandarina",
+      "f_pina"
+     ],
+     "acomp": [],
+     "nota": "mazamorra de piña con leche con trocitos de piña, huevo de codorniz, mandarina y chicha morada"
+    },
+    "almuerzo": {
+     "platos": [
+      "A14"
+     ],
+     "bebidas": [],
+     "frutas": [],
+     "acomp": [
+      "AC04"
+     ],
+     "nota": "frijol castilla con pollo asado y ensalada de lechuga, cebolla y tomate"
+    }
+   },
+   "jueves": {
+    "desayuno": {
+     "platos": [
+      "D30"
+     ],
+     "bebidas": [
+      "db3"
+     ],
+     "frutas": [],
+     "acomp": [],
+     "nota": "arroz chaufa con pollito y huevo con leche de ajonjolí y maní"
+    },
+    "lonchera": {
+     "platos": [
+      "L08",
+      "L22"
+     ],
+     "bebidas": [],
+     "frutas": [
+      "f_arandano"
+     ],
+     "acomp": [],
+     "nota": "pan con queso pizza, arándanos y yogurt"
+    },
+    "almuerzo": {
+     "platos": [
+      "A12"
+     ],
+     "bebidas": [],
+     "frutas": [],
+     "acomp": [],
+     "nota": "sopa de menestron"
+    }
+   }
+  },
+  "menus_origen": [
+   60,
+   61,
+   62,
+   63
+  ]
+ },
+ {
+  "id": "P16",
+  "nombre": "Menú 16 🍒",
+  "emoji": "🍒",
+  "dias": {
+   "lunes": {
+    "desayuno": {
+     "platos": [
+      "D22"
+     ],
+     "bebidas": [
+      "db8",
+      "db9"
+     ],
+     "frutas": [],
+     "acomp": [],
+     "nota": "atún con espinaca y papá sancochada con avena con manzana y leche"
+    },
+    "lonchera": {
+     "platos": [
+      "L08",
+      "L12"
+     ],
+     "bebidas": [
+      "r05"
+     ],
+     "frutas": [
+      "f_platano"
+     ],
+     "acomp": [],
+     "nota": "omelet de huevo con zanahoria , pan tostado con queso , y plátano y agua de maracuyá"
+    },
+    "almuerzo": {
+     "platos": [
+      "A30"
+     ],
+     "bebidas": [],
+     "frutas": [],
+     "acomp": [
+      "AC05"
+     ],
+     "nota": "arverjita con pollo asado y ensalada de pepino con lechuga y cebolla"
+    }
+   },
+   "martes": {
+    "desayuno": {
+     "platos": [
+      "D15"
+     ],
+     "bebidas": [
+      "db5",
+      "db8"
+     ],
+     "frutas": [],
+     "acomp": [],
+     "nota": "guacamole de palta con pan y agua de quinua tostada con leche"
+    },
+    "lonchera": {
+     "platos": [
+      "L05",
+      "L22"
+     ],
+     "bebidas": [
+      "r01"
+     ],
+     "frutas": [
+      "f_mandarina",
+      "f_pera"
+     ],
+     "acomp": [],
+     "nota": "yogurt con cereal , huevo de codorniz , mandarina y pera y agua de cebada"
+    },
+    "almuerzo": {
+     "platos": [
+      "A38"
+     ],
+     "bebidas": [],
+     "frutas": [],
+     "acomp": [],
+     "nota": "escabeche de pollo"
+    }
+   },
+   "miercoles": {
+    "desayuno": {
+     "platos": [
+      "D19"
+     ],
+     "bebidas": [
+      "db2"
+     ],
+     "frutas": [],
+     "acomp": [],
+     "nota": "coliflor rebosado con huevo y arroz y leche de almendras"
+    },
+    "lonchera": {
+     "platos": [
+      "L20"
+     ],
+     "bebidas": [
+      "r01"
+     ],
+     "frutas": [
+      "f_platano",
+      "f_manzana"
+     ],
+     "acomp": [],
+     "nota": "milanesa de pollo con pan y lechuga con manzana, plátano y agua de cebada"
+    },
+    "almuerzo": {
+     "platos": [
+      "A45"
+     ],
+     "bebidas": [],
+     "frutas": [],
+     "acomp": [],
+     "nota": "CAU CAU de pollo"
+    }
+   },
+   "jueves": {
+    "desayuno": {
+     "platos": [
+      "D02"
+     ],
+     "bebidas": [
+      "db7"
+     ],
+     "frutas": [],
+     "acomp": [
+      "AC12"
+     ],
+     "nota": "pan con omelet de espinaca y zanahoria y 7 semillas"
+    },
+    "lonchera": {
+     "platos": [
+      "L10"
+     ],
+     "bebidas": [],
+     "frutas": [
+      "f_uva",
+      "f_mango"
+     ],
+     "acomp": [],
+     "nota": "mazamorra de mango con leche y arroz , uvas y chifles"
+    },
+    "almuerzo": {
+     "platos": [
+      "A31"
+     ],
+     "bebidas": [],
+     "frutas": [],
+     "acomp": [],
+     "nota": "sopa de chuño con carne y choclo"
+    }
+   }
+  },
+  "menus_origen": [
+   73,
+   74,
+   75,
+   76
+  ]
+ }
+]

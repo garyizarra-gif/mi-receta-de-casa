@@ -1,0 +1,24 @@
+# Configuración del intermediario de fotos (Cloudflare Worker). Ver LEEME.md para los pasos.
+name = "menu-de-casa-fotos"
+main = "src/index.js"
+compatibility_date = "2026-10-01"
+
+# Contador de gasto y de uso por hora. Crea el espacio con:  npx wrangler kv namespace create CONTADOR
+# y pega aquí el "id" que te muestra.
+[[kv_namespaces]]
+binding = "CONTADOR"
+id = "PEGA_AQUI_EL_ID_DEL_KV"
+
+[vars]
+# Direcciones desde las que la app puede llamar (separadas por coma, sin barra final).
+ORIGENES = "https://TU-USUARIO.github.io"
+# Tope de gasto por mes, en dólares. Al llegar, el servicio se detiene solo.
+TOPE_MES_USD = "2"
+# Máximo de fotos analizadas por hora.
+LIMITE_HORA = "40"
+# Modelo. Por defecto claude-opus-5-5. Para gastar unas 40 veces menos: "claude-haiku-5-5".
+MODELO = "claude-opus-5-5"
+
+# Los SECRETOS no van aquí. Se guardan con:
+#   npx wrangler secret put ANTHROPIC_API_KEY     (tu clave de API de console.anthropic.com)
+#   npx wrangler secret put APP_TOKEN             (un código de acceso que inventas; lo escribes también en la app)

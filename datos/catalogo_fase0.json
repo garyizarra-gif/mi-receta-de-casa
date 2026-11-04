@@ -1,0 +1,1713 @@
+{
+ "desayunos": [
+  {
+   "id": "D01",
+   "nombre": "Omelet de zanahoria con atún y palta",
+   "patron": "omelet de zanahoria con atun",
+   "harina": [],
+   "pescado": "camuflado",
+   "menestra": false,
+   "verdura": true,
+   "camote": false,
+   "proteina": "huevo, atún",
+   "veces": 1
+  },
+  {
+   "id": "D02",
+   "nombre": "Omelet de zanahoria y espinaca",
+   "patron": "omelet de zanahoria y espinaca|omelet de zanahoria , espinaca|omelet de espinaca y zanahoria|pan con omelet de zanahoria|omelet de huevo con espinaca",
+   "harina": [],
+   "pescado": "ninguno",
+   "menestra": false,
+   "verdura": true,
+   "camote": false,
+   "proteina": "huevo",
+   "veces": 5
+  },
+  {
+   "id": "D03",
+   "nombre": "Omelet de huevo con queso",
+   "patron": "omelet de (huevo con queso|queso con huevo|huevo y queso)|pan con omelet de huevo y queso",
+   "harina": [],
+   "pescado": "ninguno",
+   "menestra": false,
+   "verdura": false,
+   "camote": false,
+   "proteina": "huevo, queso",
+   "veces": 3
+  },
+  {
+   "id": "D04",
+   "nombre": "Tortilla de brócoli con queso",
+   "patron": "tortilla de brocoli",
+   "harina": [],
+   "pescado": "ninguno",
+   "menestra": false,
+   "verdura": true,
+   "camote": false,
+   "proteina": "huevo, queso",
+   "veces": 1
+  },
+  {
+   "id": "D05",
+   "nombre": "Tortilla de verduras (zanahoria, espinaca)",
+   "patron": "tortilla de (verduras|zanahoria|espinaca)",
+   "harina": [],
+   "pescado": "ninguno",
+   "menestra": false,
+   "verdura": true,
+   "camote": false,
+   "proteina": "huevo",
+   "veces": 3
+  },
+  {
+   "id": "D06",
+   "nombre": "Tortilla de queso con papa",
+   "patron": "tortilla de queso con papa",
+   "harina": [],
+   "pescado": "ninguno",
+   "menestra": false,
+   "verdura": false,
+   "camote": false,
+   "proteina": "huevo, queso",
+   "veces": 1
+  },
+  {
+   "id": "D07",
+   "nombre": "Tortilla de lenteja",
+   "patron": "tortilla de lenteja",
+   "harina": [],
+   "pescado": "ninguno",
+   "menestra": true,
+   "verdura": false,
+   "camote": false,
+   "proteina": "lenteja, huevo",
+   "veces": 1
+  },
+  {
+   "id": "D08",
+   "nombre": "Tortilla de atún con palta",
+   "patron": "tortilla con atun",
+   "harina": [],
+   "pescado": "camuflado",
+   "menestra": false,
+   "verdura": false,
+   "camote": false,
+   "proteina": "huevo, atún",
+   "veces": 1
+  },
+  {
+   "id": "D09",
+   "nombre": "Morcilla con camote",
+   "patron": "morcilla",
+   "harina": [
+    "p"
+   ],
+   "pescado": "ninguno",
+   "menestra": false,
+   "verdura": false,
+   "camote": true,
+   "proteina": "morcilla",
+   "veces": 2
+  },
+  {
+   "id": "D10",
+   "nombre": "Avena con manzana",
+   "patron": "^avena con manzana",
+   "harina": [],
+   "pescado": "ninguno",
+   "menestra": false,
+   "verdura": false,
+   "camote": false,
+   "proteina": "",
+   "veces": 1
+  },
+  {
+   "id": "D11",
+   "nombre": "Papa con huevo y crema (huancaína / pimentón / qapchi = queso, leche y galleta)",
+   "patron": "papa con huevo|huevo con papa|huevo sancochado con papa|sancochado con papa",
+   "harina": [],
+   "pescado": "ninguno",
+   "menestra": false,
+   "verdura": false,
+   "camote": false,
+   "proteina": "huevo",
+   "veces": 7
+  },
+  {
+   "id": "D12",
+   "nombre": "Papa con queso y huevo (cebollita china)",
+   "patron": "papa con queso",
+   "harina": [],
+   "pescado": "ninguno",
+   "menestra": false,
+   "verdura": false,
+   "camote": false,
+   "proteina": "huevo, queso",
+   "veces": 2
+  },
+  {
+   "id": "D13",
+   "nombre": "Arroz a la cubana",
+   "patron": "arroz a la cubana",
+   "harina": [
+    "a"
+   ],
+   "pescado": "ninguno",
+   "menestra": false,
+   "verdura": false,
+   "camote": false,
+   "proteina": "huevo",
+   "veces": 6
+  },
+  {
+   "id": "D14",
+   "nombre": "Pizza de papa",
+   "patron": "pizza (casera )?de papa|papa pizza",
+   "harina": [],
+   "pescado": "ninguno",
+   "menestra": false,
+   "verdura": false,
+   "camote": false,
+   "proteina": "queso, huevo",
+   "veces": 4
+  },
+  {
+   "id": "D15",
+   "nombre": "Pan con guacamole de palta",
+   "patron": "guacamole",
+   "harina": [
+    "p"
+   ],
+   "pescado": "ninguno",
+   "menestra": false,
+   "verdura": false,
+   "camote": false,
+   "proteina": "",
+   "veces": 4
+  },
+  {
+   "id": "D16",
+   "nombre": "Pan con crema de palta",
+   "patron": "pan con crema de palta",
+   "harina": [
+    "p"
+   ],
+   "pescado": "ninguno",
+   "menestra": false,
+   "verdura": false,
+   "camote": false,
+   "proteina": "",
+   "veces": 1
+  },
+  {
+   "id": "D17",
+   "nombre": "Pan rebosado con huevo (cebolla, papa/choclo)",
+   "patron": "pan rebosado",
+   "harina": [
+    "p"
+   ],
+   "pescado": "ninguno",
+   "menestra": false,
+   "verdura": false,
+   "camote": false,
+   "proteina": "huevo",
+   "veces": 3
+  },
+  {
+   "id": "D18",
+   "nombre": "Papa frita con huevo rebosado",
+   "patron": "papa frita con huevo rebosado",
+   "harina": [],
+   "pescado": "ninguno",
+   "menestra": false,
+   "verdura": false,
+   "camote": false,
+   "proteina": "huevo",
+   "veces": 2
+  },
+  {
+   "id": "D19",
+   "nombre": "Coliflor rebosado con arroz y huevo",
+   "patron": "coliflor rebosado",
+   "harina": [
+    "a"
+   ],
+   "pescado": "ninguno",
+   "menestra": false,
+   "verdura": true,
+   "camote": false,
+   "proteina": "huevo",
+   "veces": 2
+  },
+  {
+   "id": "D20",
+   "nombre": "Arroz con atún",
+   "patron": "arroz con atun|atun con arroz",
+   "harina": [
+    "a"
+   ],
+   "pescado": "camuflado",
+   "menestra": false,
+   "verdura": false,
+   "camote": false,
+   "proteina": "atún",
+   "veces": 2
+  },
+  {
+   "id": "D21",
+   "nombre": "Papa con atún (sancochada o frita)",
+   "patron": "papa (frita |sancochada )?con atun|atun rebosado",
+   "harina": [],
+   "pescado": "visible",
+   "menestra": false,
+   "verdura": false,
+   "camote": false,
+   "proteina": "atún",
+   "veces": 5
+  },
+  {
+   "id": "D22",
+   "nombre": "Atún con espinaca y papa",
+   "patron": "espinaca con atun|atun con espinaca",
+   "harina": [],
+   "pescado": "visible",
+   "menestra": false,
+   "verdura": true,
+   "camote": false,
+   "proteina": "atún",
+   "veces": 2
+  },
+  {
+   "id": "D23",
+   "nombre": "Palta con atún y pan",
+   "patron": "palta con atun",
+   "harina": [
+    "p"
+   ],
+   "pescado": "visible",
+   "menestra": false,
+   "verdura": false,
+   "camote": false,
+   "proteina": "atún",
+   "veces": 1
+  },
+  {
+   "id": "D24",
+   "nombre": "Pan con atún (cebolla, tomate)",
+   "patron": "pan con atun",
+   "harina": [
+    "p"
+   ],
+   "pescado": "camuflado",
+   "menestra": false,
+   "verdura": false,
+   "camote": false,
+   "proteina": "atún",
+   "veces": 2
+  },
+  {
+   "id": "D25",
+   "nombre": "Pollo deshilachado con apio y mayonesa (pan)",
+   "patron": "pollo deshilachado con apio",
+   "harina": [
+    "p"
+   ],
+   "pescado": "ninguno",
+   "menestra": false,
+   "verdura": true,
+   "camote": false,
+   "proteina": "pollo",
+   "veces": 3
+  },
+  {
+   "id": "D26",
+   "nombre": "Chuño con queso",
+   "patron": "chuno con",
+   "harina": [],
+   "pescado": "ninguno",
+   "menestra": false,
+   "verdura": false,
+   "camote": false,
+   "proteina": "queso",
+   "veces": 2
+  },
+  {
+   "id": "D27",
+   "nombre": "Quinua con manzana",
+   "patron": "quinua (entera )?con manzana",
+   "harina": [],
+   "pescado": "ninguno",
+   "menestra": false,
+   "verdura": false,
+   "camote": false,
+   "proteina": "",
+   "veces": 2
+  },
+  {
+   "id": "D28",
+   "nombre": "Pan con camote",
+   "patron": "pan con camote",
+   "harina": [
+    "p"
+   ],
+   "pescado": "ninguno",
+   "menestra": false,
+   "verdura": false,
+   "camote": true,
+   "proteina": "huevo",
+   "veces": 5
+  },
+  {
+   "id": "D29",
+   "nombre": "Panqueque de zanahoria con queso y palta",
+   "patron": "panqueque de zanahoria",
+   "harina": [
+    "h"
+   ],
+   "pescado": "ninguno",
+   "menestra": false,
+   "verdura": true,
+   "camote": false,
+   "proteina": "queso, pollo",
+   "veces": 1
+  },
+  {
+   "id": "D30",
+   "nombre": "Arroz chaufa con pollito y huevo",
+   "patron": "arroz chaufa",
+   "harina": [
+    "a"
+   ],
+   "pescado": "ninguno",
+   "menestra": false,
+   "verdura": false,
+   "camote": false,
+   "proteina": "pollo, huevo",
+   "veces": 1
+  },
+  {
+   "id": "D31",
+   "nombre": "Pan con huevo y queso",
+   "patron": "pan con huevo y queso",
+   "harina": [
+    "p"
+   ],
+   "pescado": "ninguno",
+   "menestra": false,
+   "verdura": false,
+   "camote": false,
+   "proteina": "huevo, queso",
+   "veces": 1
+  },
+  {
+   "id": "D32",
+   "nombre": "Avena con leche y papas fritas con atún rebosado",
+   "patron": "avena con leche con papas fritas",
+   "harina": [],
+   "pescado": "visible",
+   "menestra": false,
+   "verdura": false,
+   "camote": false,
+   "proteina": "atún",
+   "veces": 1
+  }
+ ],
+ "bebidas_desayuno": [
+  {
+   "id": "db1",
+   "nombre": "Leche de soya",
+   "patron": "leche de soya|agua de soya|con soya",
+   "harina": [],
+   "pescado": "ninguno",
+   "menestra": false,
+   "verdura": false,
+   "camote": false,
+   "proteina": "",
+   "veces": 14
+  },
+  {
+   "id": "db2",
+   "nombre": "Leche de almendras",
+   "patron": "leche de almendra",
+   "harina": [],
+   "pescado": "ninguno",
+   "menestra": false,
+   "verdura": false,
+   "camote": false,
+   "proteina": "",
+   "veces": 13
+  },
+  {
+   "id": "db3",
+   "nombre": "Leche de ajonjolí con maní",
+   "patron": "ajonjoli|leche de mani",
+   "harina": [],
+   "pescado": "ninguno",
+   "menestra": false,
+   "verdura": false,
+   "camote": false,
+   "proteina": "",
+   "veces": 7
+  },
+  {
+   "id": "db4",
+   "nombre": "Leche de habas",
+   "patron": "leche de haba|leche con haba",
+   "harina": [],
+   "pescado": "ninguno",
+   "menestra": false,
+   "verdura": false,
+   "camote": false,
+   "proteina": "",
+   "veces": 2
+  },
+  {
+   "id": "db5",
+   "nombre": "Leche de quinua / agua de quinua tostada",
+   "patron": "leche de quinua|agua de quinua",
+   "harina": [],
+   "pescado": "ninguno",
+   "menestra": false,
+   "verdura": false,
+   "camote": false,
+   "proteina": "",
+   "veces": 5
+  },
+  {
+   "id": "db6",
+   "nombre": "Leche de maca",
+   "patron": "leche de maca|maca con leche",
+   "harina": [],
+   "pescado": "ninguno",
+   "menestra": false,
+   "verdura": false,
+   "camote": false,
+   "proteina": "",
+   "veces": 3
+  },
+  {
+   "id": "db7",
+   "nombre": "Leche de 7 semillas",
+   "patron": "7 semillas",
+   "harina": [],
+   "pescado": "ninguno",
+   "menestra": false,
+   "verdura": false,
+   "camote": false,
+   "proteina": "",
+   "veces": 7
+  },
+  {
+   "id": "db8",
+   "nombre": "Leche de vaca / chocolate con leche",
+   "patron": "leche de vaca|chocolate con leche|leche y chocolate|\\bleche\\b(?! de | con haba)",
+   "harina": [],
+   "pescado": "ninguno",
+   "menestra": false,
+   "verdura": false,
+   "camote": false,
+   "proteina": "",
+   "veces": 15
+  },
+  {
+   "id": "db9",
+   "nombre": "Avena (con leche, con chocolate)",
+   "patron": "avena",
+   "harina": [],
+   "pescado": "ninguno",
+   "menestra": false,
+   "verdura": false,
+   "camote": false,
+   "proteina": "",
+   "veces": 18
+  },
+  {
+   "id": "db10",
+   "nombre": "Agua de chocolate",
+   "patron": "agua de chocolate",
+   "harina": [],
+   "pescado": "ninguno",
+   "menestra": false,
+   "verdura": false,
+   "camote": false,
+   "proteina": "",
+   "veces": 1
+  },
+  {
+   "id": "db11",
+   "nombre": "Leche de cereales molidos",
+   "patron": "molido de cereales",
+   "harina": [],
+   "pescado": "ninguno",
+   "menestra": false,
+   "verdura": false,
+   "camote": false,
+   "proteina": "",
+   "veces": 1
+  }
+ ],
+ "almuerzos": [
+  {
+   "id": "A01",
+   "nombre": "Patita con maní",
+   "patron": "patita con mani",
+   "harina": [],
+   "pescado": "ninguno",
+   "menestra": false,
+   "verdura": false,
+   "camote": false,
+   "proteina": "patita (cerdo)",
+   "veces": 1
+  },
+  {
+   "id": "A02",
+   "nombre": "Olluco con queso",
+   "patron": "olluco con queso",
+   "harina": [],
+   "pescado": "ninguno",
+   "menestra": false,
+   "verdura": true,
+   "camote": false,
+   "proteina": "queso",
+   "veces": 1
+  },
+  {
+   "id": "A03",
+   "nombre": "Olluquito con carne y choclo",
+   "patron": "olluquito",
+   "harina": [],
+   "pescado": "ninguno",
+   "menestra": false,
+   "verdura": true,
+   "camote": false,
+   "proteina": "res",
+   "veces": 1
+  },
+  {
+   "id": "A04",
+   "nombre": "Ají de gallina",
+   "patron": "aji de gallina",
+   "harina": [
+    "p"
+   ],
+   "pescado": "ninguno",
+   "menestra": false,
+   "verdura": false,
+   "camote": false,
+   "proteina": "pollo",
+   "veces": 3
+  },
+  {
+   "id": "A05",
+   "nombre": "Lomo saltado",
+   "patron": "lomo saltado",
+   "harina": [
+    "a"
+   ],
+   "pescado": "ninguno",
+   "menestra": false,
+   "verdura": true,
+   "camote": false,
+   "proteina": "res",
+   "veces": 1
+  },
+  {
+   "id": "A06",
+   "nombre": "Puca picante (sin chicharrón)",
+   "patron": "pica picante|puca picante",
+   "harina": [
+    "a"
+   ],
+   "pescado": "ninguno",
+   "menestra": false,
+   "verdura": false,
+   "camote": false,
+   "proteina": "",
+   "veces": 1
+  },
+  {
+   "id": "A07",
+   "nombre": "Lomo de atún",
+   "patron": "lomo de atun",
+   "harina": [],
+   "pescado": "visible",
+   "menestra": false,
+   "verdura": false,
+   "camote": false,
+   "proteina": "atún",
+   "veces": 1
+  },
+  {
+   "id": "A08",
+   "nombre": "Tallarín verde con papa a la huancaína",
+   "patron": "tallarin verde",
+   "harina": [
+    "f"
+   ],
+   "pescado": "ninguno",
+   "menestra": false,
+   "verdura": true,
+   "camote": false,
+   "proteina": "queso",
+   "veces": 3
+  },
+  {
+   "id": "A09",
+   "nombre": "Locro de zapallo",
+   "patron": "locro de zapallo",
+   "harina": [],
+   "pescado": "ninguno",
+   "menestra": false,
+   "verdura": true,
+   "camote": false,
+   "proteina": "res/huevo",
+   "veces": 3
+  },
+  {
+   "id": "A10",
+   "nombre": "Guiso de caigua con pollo",
+   "patron": "guiso de caigua",
+   "harina": [],
+   "pescado": "ninguno",
+   "menestra": false,
+   "verdura": true,
+   "camote": false,
+   "proteina": "pollo",
+   "veces": 1
+  },
+  {
+   "id": "A11",
+   "nombre": "Caigua rellena",
+   "patron": "caigua rellena",
+   "harina": [],
+   "pescado": "ninguno",
+   "menestra": false,
+   "verdura": true,
+   "camote": false,
+   "proteina": "carne",
+   "veces": 1
+  },
+  {
+   "id": "A12",
+   "nombre": "Sopa de menestrón",
+   "patron": "menestron",
+   "harina": [
+    "f"
+   ],
+   "pescado": "ninguno",
+   "menestra": true,
+   "verdura": true,
+   "camote": false,
+   "proteina": "",
+   "veces": 3
+  },
+  {
+   "id": "A13",
+   "nombre": "Frijol canario con bisteck",
+   "patron": "frijol canario",
+   "harina": [],
+   "pescado": "ninguno",
+   "menestra": true,
+   "verdura": false,
+   "camote": false,
+   "proteina": "res",
+   "veces": 1
+  },
+  {
+   "id": "A14",
+   "nombre": "Fréjol Castilla con chuleta o pollo",
+   "patron": "(frejol|frijol) castilla",
+   "harina": [],
+   "pescado": "ninguno",
+   "menestra": true,
+   "verdura": false,
+   "camote": false,
+   "proteina": "cerdo/pollo",
+   "veces": 3
+  },
+  {
+   "id": "A15",
+   "nombre": "Lentejas con pollo o carne",
+   "patron": "lentejas|lentejita",
+   "harina": [],
+   "pescado": "ninguno",
+   "menestra": true,
+   "verdura": false,
+   "camote": false,
+   "proteina": "pollo/cerdo",
+   "veces": 3
+  },
+  {
+   "id": "A16",
+   "nombre": "Garbanzo con carne picada y espinaca",
+   "patron": "garbanzo",
+   "harina": [],
+   "pescado": "ninguno",
+   "menestra": true,
+   "verdura": true,
+   "camote": false,
+   "proteina": "res",
+   "veces": 2
+  },
+  {
+   "id": "A17",
+   "nombre": "Sudado de pescado",
+   "patron": "sudado de pescado",
+   "harina": [],
+   "pescado": "visible",
+   "menestra": false,
+   "verdura": true,
+   "camote": false,
+   "proteina": "pescado",
+   "veces": 1
+  },
+  {
+   "id": "A18",
+   "nombre": "Pescado frito con arroz y papa",
+   "patron": "pescado frito|tilapia frita",
+   "harina": [
+    "a"
+   ],
+   "pescado": "visible",
+   "menestra": false,
+   "verdura": false,
+   "camote": false,
+   "proteina": "pescado",
+   "veces": 2
+  },
+  {
+   "id": "A19",
+   "nombre": "Estofado de pollo y choclo",
+   "patron": "estofado de pollo",
+   "harina": [],
+   "pescado": "ninguno",
+   "menestra": false,
+   "verdura": false,
+   "camote": false,
+   "proteina": "pollo",
+   "veces": 1
+  },
+  {
+   "id": "A20",
+   "nombre": "Tallarín saltado",
+   "patron": "tallarin saltado",
+   "harina": [
+    "f"
+   ],
+   "pescado": "ninguno",
+   "menestra": false,
+   "verdura": true,
+   "camote": false,
+   "proteina": "pollo",
+   "veces": 3
+  },
+  {
+   "id": "A21",
+   "nombre": "Teccte de arvejas",
+   "patron": "teccte",
+   "harina": [],
+   "pescado": "ninguno",
+   "menestra": true,
+   "verdura": false,
+   "camote": false,
+   "proteina": "",
+   "veces": 2
+  },
+  {
+   "id": "A22",
+   "nombre": "Sopa de pollo (papita, choclo, queso)",
+   "patron": "sopa de pollo",
+   "harina": [
+    "f"
+   ],
+   "pescado": "ninguno",
+   "menestra": false,
+   "verdura": true,
+   "camote": false,
+   "proteina": "pollo",
+   "veces": 3
+  },
+  {
+   "id": "A23",
+   "nombre": "Tallarín rojo con atún",
+   "patron": "tallarin rojo",
+   "harina": [
+    "f"
+   ],
+   "pescado": "camuflado",
+   "menestra": false,
+   "verdura": false,
+   "camote": false,
+   "proteina": "atún",
+   "veces": 2
+  },
+  {
+   "id": "A24",
+   "nombre": "Guiso de quinua con queso y chuleta frita",
+   "patron": "guiso de quinua",
+   "harina": [],
+   "pescado": "ninguno",
+   "menestra": false,
+   "verdura": false,
+   "camote": false,
+   "proteina": "cerdo, queso",
+   "veces": 1
+  },
+  {
+   "id": "A25",
+   "nombre": "Arroz con pollo",
+   "patron": "arroz con pollo",
+   "harina": [
+    "a"
+   ],
+   "pescado": "ninguno",
+   "menestra": false,
+   "verdura": true,
+   "camote": false,
+   "proteina": "pollo",
+   "veces": 1
+  },
+  {
+   "id": "A26",
+   "nombre": "Asado de pollo",
+   "patron": "asado de pollo",
+   "harina": [],
+   "pescado": "ninguno",
+   "menestra": false,
+   "verdura": false,
+   "camote": false,
+   "proteina": "pollo",
+   "veces": 1
+  },
+  {
+   "id": "A27",
+   "nombre": "Lomito de pollo con alverjita",
+   "patron": "lomito de pollo",
+   "harina": [],
+   "pescado": "ninguno",
+   "menestra": false,
+   "verdura": true,
+   "camote": false,
+   "proteina": "pollo",
+   "veces": 1
+  },
+  {
+   "id": "A28",
+   "nombre": "Guiso de vainita con pollo o carne",
+   "patron": "guiso de vainita",
+   "harina": [],
+   "pescado": "ninguno",
+   "menestra": false,
+   "verdura": true,
+   "camote": false,
+   "proteina": "pollo/res",
+   "veces": 2
+  },
+  {
+   "id": "A29",
+   "nombre": "Vainita saltada",
+   "patron": "vainita saltada",
+   "harina": [],
+   "pescado": "ninguno",
+   "menestra": false,
+   "verdura": true,
+   "camote": false,
+   "proteina": "",
+   "veces": 1
+  },
+  {
+   "id": "A30",
+   "nombre": "Alverjita verde con pollo asado",
+   "patron": "(alverjita|arverjita|alverja|arverja)s? (verde )?con pollo",
+   "harina": [],
+   "pescado": "ninguno",
+   "menestra": false,
+   "verdura": true,
+   "camote": false,
+   "proteina": "pollo",
+   "veces": 2
+  },
+  {
+   "id": "A31",
+   "nombre": "Sopa de chuño con carne y choclo",
+   "patron": "sopa de chuno",
+   "harina": [],
+   "pescado": "ninguno",
+   "menestra": false,
+   "verdura": false,
+   "camote": false,
+   "proteina": "res",
+   "veces": 2
+  },
+  {
+   "id": "A32",
+   "nombre": "Seco de pollo",
+   "patron": "seco de pollo",
+   "harina": [
+    "a"
+   ],
+   "pescado": "ninguno",
+   "menestra": false,
+   "verdura": false,
+   "camote": false,
+   "proteina": "pollo",
+   "veces": 1
+  },
+  {
+   "id": "A33",
+   "nombre": "Guiso de coliflor con carne",
+   "patron": "guiso de coliflor",
+   "harina": [],
+   "pescado": "ninguno",
+   "menestra": false,
+   "verdura": true,
+   "camote": false,
+   "proteina": "res",
+   "veces": 2
+  },
+  {
+   "id": "A34",
+   "nombre": "Costillar frito con papas doradas",
+   "patron": "costillar",
+   "harina": [
+    "a"
+   ],
+   "pescado": "ninguno",
+   "menestra": false,
+   "verdura": false,
+   "camote": false,
+   "proteina": "cerdo",
+   "veces": 1
+  },
+  {
+   "id": "A35",
+   "nombre": "Tallarín con atún",
+   "patron": "tallarin con atun",
+   "harina": [
+    "f"
+   ],
+   "pescado": "camuflado",
+   "menestra": false,
+   "verdura": false,
+   "camote": false,
+   "proteina": "atún",
+   "veces": 1
+  },
+  {
+   "id": "A36",
+   "nombre": "Tallarín con pollo, arvejita y huancaína",
+   "patron": "tallarin con pollo",
+   "harina": [
+    "f"
+   ],
+   "pescado": "ninguno",
+   "menestra": false,
+   "verdura": true,
+   "camote": false,
+   "proteina": "pollo",
+   "veces": 1
+  },
+  {
+   "id": "A37",
+   "nombre": "Puré con asado",
+   "patron": "pure con asado",
+   "harina": [],
+   "pescado": "ninguno",
+   "menestra": false,
+   "verdura": false,
+   "camote": false,
+   "proteina": "res",
+   "veces": 1
+  },
+  {
+   "id": "A38",
+   "nombre": "Escabeche de pollo",
+   "patron": "escabeche de pollo",
+   "harina": [],
+   "pescado": "ninguno",
+   "menestra": false,
+   "verdura": true,
+   "camote": false,
+   "proteina": "pollo",
+   "veces": 2
+  },
+  {
+   "id": "A39",
+   "nombre": "Quinua con chuleta",
+   "patron": "quinua con chuleta",
+   "harina": [],
+   "pescado": "ninguno",
+   "menestra": false,
+   "verdura": false,
+   "camote": false,
+   "proteina": "cerdo",
+   "veces": 1
+  },
+  {
+   "id": "A40",
+   "nombre": "Pollo dorado con papas fritas y arroz",
+   "patron": "pollo dorado",
+   "harina": [
+    "a"
+   ],
+   "pescado": "ninguno",
+   "menestra": false,
+   "verdura": false,
+   "camote": false,
+   "proteina": "pollo",
+   "veces": 1
+  },
+  {
+   "id": "A41",
+   "nombre": "Pollo al sillao con camotes",
+   "patron": "pollo al sillas|pollo al sillao",
+   "harina": [],
+   "pescado": "ninguno",
+   "menestra": false,
+   "verdura": false,
+   "camote": true,
+   "proteina": "pollo",
+   "veces": 1
+  },
+  {
+   "id": "A42",
+   "nombre": "Ensalada rusa con alitas broaster",
+   "patron": "ensalada rusa",
+   "harina": [],
+   "pescado": "ninguno",
+   "menestra": false,
+   "verdura": true,
+   "camote": false,
+   "proteina": "pollo",
+   "veces": 1
+  },
+  {
+   "id": "A43",
+   "nombre": "Caldo de gallina (con sopa munición)",
+   "patron": "caldo de (pollo|gallina)",
+   "harina": [
+    "f"
+   ],
+   "pescado": "ninguno",
+   "menestra": false,
+   "verdura": false,
+   "camote": false,
+   "proteina": "pollo",
+   "veces": 2
+  },
+  {
+   "id": "A44",
+   "nombre": "Apanado con papas fritas y arroz",
+   "patron": "apanado con papas",
+   "harina": [
+    "a"
+   ],
+   "pescado": "ninguno",
+   "menestra": false,
+   "verdura": false,
+   "camote": false,
+   "proteina": "pollo/carne",
+   "veces": 1
+  },
+  {
+   "id": "A45",
+   "nombre": "Cau cau de pollo",
+   "patron": "cau cau",
+   "harina": [],
+   "pescado": "ninguno",
+   "menestra": false,
+   "verdura": false,
+   "camote": false,
+   "proteina": "pollo",
+   "veces": 1
+  },
+  {
+   "id": "A46",
+   "nombre": "Arverjita verde con pescado (texto cortado)",
+   "patron": "con pescado",
+   "harina": [],
+   "pescado": "visible",
+   "menestra": false,
+   "verdura": true,
+   "camote": false,
+   "proteina": "pescado",
+   "veces": 1
+  }
+ ],
+ "loncheras": [
+  {
+   "id": "L01",
+   "nombre": "Tortilla con queso y orégano",
+   "patron": "tortilla con queso",
+   "harina": [],
+   "pescado": "ninguno",
+   "menestra": false,
+   "verdura": false,
+   "camote": false,
+   "proteina": "huevo, queso",
+   "veces": 1
+  },
+  {
+   "id": "L02",
+   "nombre": "Pollo deshilachado/dorado con papitas",
+   "patron": "pollo (deshilachado )?dorado|pollo dorado deshilachado|pollo deshilachado dorado",
+   "harina": [],
+   "pescado": "ninguno",
+   "menestra": false,
+   "verdura": false,
+   "camote": false,
+   "proteina": "pollo",
+   "veces": 2
+  },
+  {
+   "id": "L03",
+   "nombre": "Pan con pollo (plancha o con apio y mayonesa)",
+   "patron": "pan (tostada |tostado )?con pollo|pollito a la plancha|tostado con pollo",
+   "harina": [
+    "p"
+   ],
+   "pescado": "ninguno",
+   "menestra": false,
+   "verdura": false,
+   "camote": false,
+   "proteina": "pollo",
+   "veces": 7
+  },
+  {
+   "id": "L04",
+   "nombre": "Pan con bisteck / carne molida",
+   "patron": "pan con (carne molida|bisteck)",
+   "harina": [
+    "p"
+   ],
+   "pescado": "ninguno",
+   "menestra": false,
+   "verdura": false,
+   "camote": false,
+   "proteina": "res",
+   "veces": 2
+  },
+  {
+   "id": "L05",
+   "nombre": "Huevo de codorniz",
+   "patron": "codorniz",
+   "harina": [],
+   "pescado": "ninguno",
+   "menestra": false,
+   "verdura": false,
+   "camote": false,
+   "proteina": "huevo",
+   "veces": 13
+  },
+  {
+   "id": "L06",
+   "nombre": "Arroz chaufa con pollito",
+   "patron": "arroz chaufa",
+   "harina": [
+    "a"
+   ],
+   "pescado": "ninguno",
+   "menestra": false,
+   "verdura": false,
+   "camote": false,
+   "proteina": "pollo, huevo",
+   "veces": 4
+  },
+  {
+   "id": "L07",
+   "nombre": "Choclo con queso y papita",
+   "patron": "choclo con queso",
+   "harina": [],
+   "pescado": "ninguno",
+   "menestra": false,
+   "verdura": false,
+   "camote": false,
+   "proteina": "queso",
+   "veces": 3
+  },
+  {
+   "id": "L08",
+   "nombre": "Pan con queso (o queso pizza)",
+   "patron": "pan con queso|queso pizza|con queso y pancito|pan tostado con queso",
+   "harina": [
+    "p"
+   ],
+   "pescado": "ninguno",
+   "menestra": false,
+   "verdura": false,
+   "camote": false,
+   "proteina": "queso",
+   "veces": 7
+  },
+  {
+   "id": "L09",
+   "nombre": "Panqueque / crepa (mermelada, maní, plátano, arándanos...)",
+   "patron": "panqueque|crepa",
+   "harina": [
+    "h"
+   ],
+   "pescado": "ninguno",
+   "menestra": false,
+   "verdura": false,
+   "camote": false,
+   "proteina": "",
+   "veces": 10
+  },
+  {
+   "id": "L10",
+   "nombre": "Mazamorra (quinua, arroz con leche, piña, mango)",
+   "patron": "mazamorra",
+   "harina": [],
+   "pescado": "ninguno",
+   "menestra": false,
+   "verdura": false,
+   "camote": false,
+   "proteina": "",
+   "veces": 5
+  },
+  {
+   "id": "L11",
+   "nombre": "Arroz con atún revuelto",
+   "patron": "arroz con atun",
+   "harina": [
+    "a"
+   ],
+   "pescado": "camuflado",
+   "menestra": false,
+   "verdura": false,
+   "camote": false,
+   "proteina": "atún",
+   "veces": 1
+  },
+  {
+   "id": "L12",
+   "nombre": "Omelet de huevo (queso, zanahoria, atún)",
+   "patron": "omelet",
+   "harina": [],
+   "pescado": "ninguno",
+   "menestra": false,
+   "verdura": true,
+   "camote": false,
+   "proteina": "huevo",
+   "veces": 4
+  },
+  {
+   "id": "L13",
+   "nombre": "Tortilla de zanahoria con crema de choco maní",
+   "patron": "tortilla de zanahoria",
+   "harina": [],
+   "pescado": "ninguno",
+   "menestra": false,
+   "verdura": true,
+   "camote": false,
+   "proteina": "huevo",
+   "veces": 1
+  },
+  {
+   "id": "L14",
+   "nombre": "Hamburguesa (con huevo frito)",
+   "patron": "hamburguesa",
+   "harina": [
+    "p"
+   ],
+   "pescado": "ninguno",
+   "menestra": false,
+   "verdura": false,
+   "camote": false,
+   "proteina": "res",
+   "veces": 2
+  },
+  {
+   "id": "L15",
+   "nombre": "Bisteck con papitas doradas",
+   "patron": "bisteck con papit|papita amarilla sancochada con bisteck",
+   "harina": [],
+   "pescado": "ninguno",
+   "menestra": false,
+   "verdura": false,
+   "camote": false,
+   "proteina": "res",
+   "veces": 2
+  },
+  {
+   "id": "L16",
+   "nombre": "Apanado (con arroz o con pan y papitas)",
+   "patron": "apanado",
+   "harina": [
+    "a"
+   ],
+   "pescado": "ninguno",
+   "menestra": false,
+   "verdura": false,
+   "camote": false,
+   "proteina": "pollo/carne",
+   "veces": 3
+  },
+  {
+   "id": "L17",
+   "nombre": "Pan con guacamole / pan con palta",
+   "patron": "pan con guacamole|pan con palta|pan con crema de palta",
+   "harina": [
+    "p"
+   ],
+   "pescado": "ninguno",
+   "menestra": false,
+   "verdura": false,
+   "camote": false,
+   "proteina": "",
+   "veces": 3
+  },
+  {
+   "id": "L18",
+   "nombre": "Pan con atún y cebollita",
+   "patron": "pan con atun",
+   "harina": [
+    "p"
+   ],
+   "pescado": "camuflado",
+   "menestra": false,
+   "verdura": false,
+   "camote": false,
+   "proteina": "atún",
+   "veces": 1
+  },
+  {
+   "id": "L19",
+   "nombre": "Pan con huevo frito",
+   "patron": "pan con huevo frito",
+   "harina": [
+    "p"
+   ],
+   "pescado": "ninguno",
+   "menestra": false,
+   "verdura": false,
+   "camote": false,
+   "proteina": "huevo",
+   "veces": 3
+  },
+  {
+   "id": "L20",
+   "nombre": "Milanesa de pollo con pan y lechuga",
+   "patron": "milanesa",
+   "harina": [
+    "p"
+   ],
+   "pescado": "ninguno",
+   "menestra": false,
+   "verdura": true,
+   "camote": false,
+   "proteina": "pollo",
+   "veces": 1
+  },
+  {
+   "id": "L21",
+   "nombre": "Choclo rebosado con huevo",
+   "patron": "choclo rebosado",
+   "harina": [],
+   "pescado": "ninguno",
+   "menestra": false,
+   "verdura": false,
+   "camote": false,
+   "proteina": "huevo",
+   "veces": 1
+  },
+  {
+   "id": "L22",
+   "nombre": "Yogurt con cereal / granola / quinua",
+   "patron": "yogurt|yogur",
+   "harina": [],
+   "pescado": "ninguno",
+   "menestra": false,
+   "verdura": false,
+   "camote": false,
+   "proteina": "yogurt",
+   "veces": 9
+  },
+  {
+   "id": "L23",
+   "nombre": "Ensalada de frutas con granola",
+   "patron": "ensalada de frutas",
+   "harina": [],
+   "pescado": "ninguno",
+   "menestra": false,
+   "verdura": false,
+   "camote": false,
+   "proteina": "",
+   "veces": 1
+  },
+  {
+   "id": "L24",
+   "nombre": "Batido de leche con arándanos",
+   "patron": "batido",
+   "harina": [],
+   "pescado": "ninguno",
+   "menestra": false,
+   "verdura": false,
+   "camote": false,
+   "proteina": "leche",
+   "veces": 1
+  },
+  {
+   "id": "L25",
+   "nombre": "Arroz con huevo frito",
+   "patron": "arroz con huevo frito",
+   "harina": [
+    "a"
+   ],
+   "pescado": "ninguno",
+   "menestra": false,
+   "verdura": false,
+   "camote": false,
+   "proteina": "huevo",
+   "veces": 1
+  },
+  {
+   "id": "L26",
+   "nombre": "Pan tostado con mermelada o crema de queso",
+   "patron": "pan (tostada |tostado |blanco tostado )?con (mermelada|crema de queso)",
+   "harina": [
+    "p"
+   ],
+   "pescado": "ninguno",
+   "menestra": false,
+   "verdura": false,
+   "camote": false,
+   "proteina": "",
+   "veces": 3
+  },
+  {
+   "id": "L27",
+   "nombre": "Fresas con leche condensada",
+   "patron": "leche condensada",
+   "harina": [],
+   "pescado": "ninguno",
+   "menestra": false,
+   "verdura": false,
+   "camote": false,
+   "proteina": "",
+   "veces": 3
+  },
+  {
+   "id": "L28",
+   "nombre": "Papa con apanado",
+   "patron": "papa con apanado",
+   "harina": [],
+   "pescado": "ninguno",
+   "menestra": false,
+   "verdura": false,
+   "camote": false,
+   "proteina": "pollo/carne",
+   "veces": 1
+  }
+ ],
+ "frutas": [
+  {
+   "id": "f_uva",
+   "nombre": "Uva",
+   "patron": "uva",
+   "veces": 10
+  },
+  {
+   "id": "f_mandarina",
+   "nombre": "Mandarina",
+   "patron": "mandarina",
+   "veces": 16
+  },
+  {
+   "id": "f_pina",
+   "nombre": "Piña",
+   "patron": "pina",
+   "veces": 12
+  },
+  {
+   "id": "f_mango",
+   "nombre": "Mango",
+   "patron": "mango",
+   "veces": 11
+  },
+  {
+   "id": "f_platano",
+   "nombre": "Plátano",
+   "patron": "platano",
+   "veces": 20
+  },
+  {
+   "id": "f_arandano",
+   "nombre": "Arándano",
+   "patron": "arandano",
+   "veces": 10
+  },
+  {
+   "id": "f_fresa",
+   "nombre": "Fresa",
+   "patron": "fresa",
+   "veces": 8
+  },
+  {
+   "id": "f_manzana",
+   "nombre": "Manzana",
+   "patron": "manzana",
+   "veces": 23
+  },
+  {
+   "id": "f_pera",
+   "nombre": "Pera",
+   "patron": "pera",
+   "veces": 3
+  },
+  {
+   "id": "f_durazno",
+   "nombre": "Durazno",
+   "patron": "durazno",
+   "veces": 1
+  },
+  {
+   "id": "f_granadilla",
+   "nombre": "Granadilla",
+   "patron": "granadilla",
+   "veces": 2
+  },
+  {
+   "id": "f_aguaymanto",
+   "nombre": "Aguaymanto",
+   "patron": "aguaymanto",
+   "veces": 1
+  },
+  {
+   "id": "f_papaya",
+   "nombre": "Papaya",
+   "patron": "papaya",
+   "veces": 0
+  },
+  {
+   "id": "f_higo",
+   "nombre": "Higo",
+   "patron": "higo",
+   "veces": 0
+  },
+  {
+   "id": "f_carambola",
+   "nombre": "Carambola",
+   "patron": "carambola",
+   "veces": 2
+  }
+ ],
+ "refrescos": [
+  {
+   "id": "r01",
+   "nombre": "Agua de cebada",
+   "nuevo": false,
+   "patron": "cebada",
+   "veces": 15
+  },
+  {
+   "id": "r02",
+   "nombre": "Agua de manzana",
+   "nuevo": false,
+   "patron": "agua de manzana\\b|manzana licuada|manzana rallada",
+   "veces": 6
+  },
+  {
+   "id": "r03",
+   "nombre": "Agua de manzanilla",
+   "nuevo": false,
+   "patron": "manzanilla",
+   "veces": 4
+  },
+  {
+   "id": "r04",
+   "nombre": "Chicha morada",
+   "nuevo": false,
+   "patron": "chicha",
+   "veces": 12
+  },
+  {
+   "id": "r05",
+   "nombre": "Refresco / agua de maracuyá",
+   "nuevo": false,
+   "patron": "maracuya",
+   "veces": 10
+  },
+  {
+   "id": "r06",
+   "nombre": "Agua de piña",
+   "nuevo": false,
+   "patron": "agua de pina",
+   "veces": 6
+  },
+  {
+   "id": "r07",
+   "nombre": "Agua de mango",
+   "nuevo": false,
+   "patron": "agua de mango",
+   "veces": 2
+  },
+  {
+   "id": "r08",
+   "nombre": "Agua de carambola",
+   "nuevo": false,
+   "patron": "carambola",
+   "veces": 2
+  },
+  {
+   "id": "r09",
+   "nombre": "Agua de linaza y limón",
+   "nuevo": false,
+   "patron": "linaza",
+   "veces": 1
+  },
+  {
+   "id": "r10",
+   "nombre": "Agua de hierbas",
+   "nuevo": false,
+   "patron": "hierbas",
+   "veces": 1
+  },
+  {
+   "id": "r11",
+   "nombre": "Jugo de plátano con leche",
+   "nuevo": false,
+   "patron": "jugo de platano( con leche)?",
+   "veces": 1
+  },
+  {
+   "id": "r12",
+   "nombre": "Jugo de leche con fresa",
+   "nuevo": false,
+   "patron": "jugo de leche( con fresas?)?",
+   "veces": 2
+  },
+  {
+   "id": "r13",
+   "nombre": "Limonada (NUEVO, pedido por ti)",
+   "nuevo": true,
+   "patron": "$^",
+   "veces": 0
+  },
+  {
+   "id": "r14",
+   "nombre": "Agua de tamarindo (NUEVO)",
+   "nuevo": true,
+   "patron": "$^",
+   "veces": 0
+  },
+  {
+   "id": "r15",
+   "nombre": "Agua de guanábana (NUEVO)",
+   "nuevo": true,
+   "patron": "$^",
+   "veces": 0
+  }
+ ],
+ "cena_apoyo": [
+  {
+   "id": "c01",
+   "nombre": "Licuado de papaya con plátano, 1 huevo, canela y vainilla (NUEVO)"
+  },
+  {
+   "id": "c02",
+   "nombre": "Licuado de plátano (seda/morado/común) con leche, 1 huevo, canela y vainilla (NUEVO)"
+  }
+ ]
+}

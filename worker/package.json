@@ -1,0 +1,16 @@
+{
+  "name": "menu-de-casa-fotos",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Intermediario seguro (Cloudflare Worker) para reconocer insumos en fotos con Claude. La clave de API vive aqui, nunca en la app.",
+  "scripts": {
+    "test": "node --test \"test/**/*.test.mjs\"",
+    "desplegar": "npx wrangler deploy",
+    "local": "npx wrangler dev"
+  },
+  "dependencies": {
+    "@anthropic-ai/sdk": "^1.4.0",
+    "zod": "^4.6.7"
+  }
+}

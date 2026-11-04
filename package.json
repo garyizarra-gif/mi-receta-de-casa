@@ -1,0 +1,14 @@
+{
+  "name": "menu-de-casa",
+  "version": "0.2.0",
+  "private": true,
+  "type": "module",
+  "description": "PWA de menú semanal y compras para la comida de casa",
+  "scripts": {
+    "test": "node --test \"test/**/*.test.mjs\"",
+    "servir": "node scripts/servir.mjs 8765",
+    "servir:red": "node scripts/servir.mjs 8765 --red",
+    "test:worker": "npm --prefix worker test",
+    "test:todo": "npm test && npm run test:worker"
+  }
+}

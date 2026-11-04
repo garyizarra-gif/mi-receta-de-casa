@@ -1,0 +1,38 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <title>Menú de casa</title>
+  <meta name="description" content="Planifica la comida de la semana y calcula las compras.">
+  <meta name="theme-color" content="#202520">
+  <meta name="color-scheme" content="dark">
+  <link rel="manifest" href="manifest.webmanifest">
+  <link rel="icon" href="icons/icon-192.png">
+  <link rel="apple-touch-icon" href="icons/icon-192.png">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header class="top"><h1>Menú de casa</h1></header>
+  <main id="vista" class="vista" aria-live="polite"><p class="cargando">Cargando…</p></main>
+  <footer class="firma">Elaborado por <span class="firma-logo"><img src="logo_systemia.png" alt="SystemIA" height="26" onerror="this.replaceWith(document.createTextNode('SystemIA'))"></span> · Cel. 965754455</footer>
+  <nav id="tabs" class="tabs" role="tablist" aria-label="Secciones"></nav>
+
+  <dialog id="detalle" class="detalle">
+    <div id="detalle-cuerpo"></div>
+    <button id="cerrar" class="cerrar" type="button">Cerrar</button>
+  </dialog>
+
+  <dialog id="editor" class="detalle editor"><div id="editor-cuerpo"></div></dialog>
+
+  <dialog id="formulario" class="detalle editor"><div id="formulario-cuerpo"></div></dialog>
+
+  <dialog id="compartir" class="detalle editor"><div id="compartir-cuerpo"></div></dialog>
+  <div id="impresion" aria-hidden="true"></div>
+
+  <dialog id="cocino-dlg" class="detalle editor"><div id="cocino-dlg-cuerpo"></div></dialog>
+
+  <noscript><p style="padding:16px">Esta app necesita JavaScript.</p></noscript>
+  <script type="module" src="src/app.js"></script>
+</body>
+</html>

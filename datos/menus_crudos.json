@@ -1,0 +1,792 @@
+[
+ {
+  "fuente": "docx",
+  "dia": "lunes",
+  "emoji": null,
+  "desayuno": "omelet de zanahoria con atún y palta y leche de almendras con avena",
+  "lonchera": "tortilla con queso y orégano, piña y mandarina y agua de cebada",
+  "almuerzo": "patita con maní",
+  "n": 1,
+  "nota_mama": ""
+ },
+ {
+  "fuente": "docx",
+  "dia": "martes",
+  "emoji": "🍒",
+  "desayuno": "Morcilla con camote y pan y chocolate con leche",
+  "lonchera": "pollo deshilachado dorado con papita dorada y ketchup, arándanos y plátano y agua de cebada",
+  "almuerzo": "olluco con queso y leche",
+  "n": 2,
+  "nota_mama": ""
+ },
+ {
+  "fuente": "docx",
+  "dia": "miercoles",
+  "emoji": "🍒",
+  "desayuno": "tortilla de brócoli con queso y leche de habas",
+  "lonchera": "pan con carne molida dorada tipo bisteck con lechuga y agua de maracuyá con mango picado y fresas picada",
+  "almuerzo": "aji de gallina",
+  "n": 3,
+  "nota_mama": ""
+ },
+ {
+  "fuente": "docx",
+  "dia": "jueves",
+  "emoji": "🍒",
+  "desayuno": "Avena con manzana y leche de soya con pan",
+  "lonchera": "huevo de codorniz con yogurt , arándanos y granola y chicha morada",
+  "almuerzo": "lomo saltado",
+  "n": 4,
+  "nota_mama": ""
+ },
+ {
+  "fuente": "docx",
+  "dia": "viernes",
+  "emoji": "🍒",
+  "desayuno": "huevo sancochado con papa y ensalada de pepino con tomate con leche de maní",
+  "lonchera": "arroz chaufa con pollito , pera y plátano y chicha morada",
+  "almuerzo": "pica picante con chicharrón y ensalada",
+  "n": 5,
+  "nota_mama": ""
+ },
+ {
+  "fuente": "pdf",
+  "dia": "lunes",
+  "emoji": null,
+  "desayuno": "arroz a la cubana con agua de soya",
+  "lonchera": "mango picado con choclo con queso y agua de cebada",
+  "almuerzo": "lomo de atún y agua de cebada",
+  "n": 6,
+  "nota_mama": ""
+ },
+ {
+  "fuente": "pdf",
+  "dia": "martes",
+  "emoji": null,
+  "desayuno": "omelet de zanahoria y espinaca con arroz y leche de molido de cereales",
+  "lonchera": "mandarina , plátano y huevo de codorniz con agua de manzana",
+  "almuerzo": "tallarín verde con papa a la huancaína y lechuga con agua de manzana",
+  "n": 7,
+  "nota_mama": ""
+ },
+ {
+  "fuente": "pdf",
+  "dia": "miercoles",
+  "emoji": null,
+  "desayuno": "pan con guacamole de palta y queso y avena con leche",
+  "lonchera": "piña picada con pan con queso y galletas de quinua y agua de manzanilla",
+  "almuerzo": "locro de zapallo con bistec y agua de manzanilla",
+  "n": 8,
+  "nota_mama": ""
+ },
+ {
+  "fuente": "pdf",
+  "dia": "jueves",
+  "emoji": null,
+  "desayuno": "pizza casera de papa con queso y cebollita china y leche de quinua",
+  "lonchera": "pan con pollo a la plancha, manzana …",
+  "almuerzo": "",
+  "n": 9,
+  "nota_mama": ""
+ },
+ {
+  "fuente": "pdf",
+  "dia": "lunes",
+  "emoji": "🍓",
+  "desayuno": "pan con crema de palta con leche de soya",
+  "lonchera": "fresas con leche condensada y pan con queso y agua de cebada",
+  "almuerzo": "guiso de caigua con pollo y agua de de cebada",
+  "n": 10,
+  "nota_mama": ""
+ },
+ {
+  "fuente": "pdf",
+  "dia": "martes",
+  "emoji": "🍓",
+  "desayuno": "pizza de papa y leche de almendras",
+  "lonchera": "mazamorra de quinua , mandarina y huevo de codorniz con agua de manzanilla",
+  "almuerzo": "sopa de menestron",
+  "n": 11,
+  "nota_mama": ""
+ },
+ {
+  "fuente": "pdf",
+  "dia": "miercoles",
+  "emoji": "🍓",
+  "desayuno": "arroz con atún y avena con chocolate",
+  "lonchera": "yogurt con cereal de quinua, aguaymanto y palitos con chicha morada",
+  "almuerzo": "frijol canario con bisteck y ensalada",
+  "n": 12,
+  "nota_mama": ""
+ },
+ {
+  "fuente": "pdf",
+  "dia": "jueves",
+  "emoji": "🍓",
+  "desayuno": "huevo con papa y crema a la huancaína con leche de soya",
+  "lonchera": "panqueque con mermelada, piña y frutos secos y chicha morada",
+  "almuerzo": "sudado de pescado",
+  "n": 13,
+  "nota_mama": ""
+ },
+ {
+  "fuente": "pdf",
+  "dia": "viernes",
+  "emoji": "🍓",
+  "desayuno": "lec…",
+  "lonchera": "",
+  "almuerzo": "",
+  "n": 14,
+  "nota_mama": ""
+ },
+ {
+  "fuente": "pdf",
+  "dia": "martes",
+  "emoji": "🍎",
+  "desayuno": "pan rebosado con huevo , cebolla y papa con leche de soya",
+  "lonchera": "arroz con atún revuelto y manzana u agua de cebada",
+  "almuerzo": "ají de gallina",
+  "n": 15,
+  "nota_mama": ""
+ },
+ {
+  "fuente": "pdf",
+  "dia": "jueves",
+  "emoji": "🍎",
+  "desayuno": "chuño con quesito y 7 semillas con leche",
+  "lonchera": "omelet huevo con queso y Pancito y mandarina con agua de mango",
+  "almuerzo": "estofado de pollo y choclo",
+  "n": 16,
+  "nota_mama": ""
+ },
+ {
+  "fuente": "pdf",
+  "dia": "viernes",
+  "emoji": "🍎",
+  "desayuno": "papa con huevo y crema de pimentón con avena y manzana",
+  "lonchera": "panqueque con crema de maní y miel , y jugo de leche con fresas",
+  "almuerzo": "tallarín saltado con papitas fritas con agua de maracuyá",
+  "n": 17,
+  "nota_mama": ""
+ },
+ {
+  "fuente": "pdf",
+  "dia": "martes",
+  "emoji": "🍎",
+  "desayuno": "tortilla de lenteja con arroz con leche de soya",
+  "lonchera": "papita amarilla sancochada con bisteck , y mandarina y chicha morada",
+  "almuerzo": "olluquito con carne y choclo",
+  "n": 18,
+  "nota_mama": ""
+ },
+ {
+  "fuente": "pdf",
+  "dia": "miercoles",
+  "emoji": "🍎",
+  "desayuno": "arroz a la cubana y 7 semillas con leche",
+  "lonchera": "yogurt con quinua y huevo de codorniz y 1 plátano y chicha morada",
+  "almuerzo": "teccte de alverja con ensalada de cebolla, tomate y lechuga",
+  "n": 19,
+  "nota_mama": ""
+ },
+ {
+  "fuente": "pdf",
+  "dia": "jueves",
+  "emoji": "🍎",
+  "desayuno": "pan rebosado con huevo, cebolla, choclo y papita y leche de almendras",
+  "lonchera": "manzana con panqueque de mermelada (2) y chifles y refresco de maracuyá",
+  "almuerzo": "sopa de pollo con papita y queso",
+  "n": 20,
+  "nota_mama": ""
+ },
+ {
+  "fuente": "pdf",
+  "dia": "viernes",
+  "emoji": "🍎",
+  "desayuno": "omelet de huevo con queso y pan y leche de ajonjolí con maní",
+  "lonchera": "arroz chaufa con mango picado y agua de maracuyá",
+  "almuerzo": "tallarín rojo con atún y papita sancochada con lechuga",
+  "n": 21,
+  "nota_mama": ""
+ },
+ {
+  "fuente": "pdf",
+  "dia": "jueves",
+  "emoji": "🍎",
+  "desayuno": "pan rebosado con huevo, cebolla, choclo y papita y leche de almendras",
+  "lonchera": "manzana con panqueque de mermelada (2) y papas lays y refresco de maracuyá",
+  "almuerzo": "guiso de quinua con queso y chuleta frita y ensalada",
+  "n": 22,
+  "nota_mama": ""
+ },
+ {
+  "fuente": "pdf",
+  "dia": "viernes",
+  "emoji": "🍎",
+  "desayuno": "omelet de queso con huevo y pan y leche de ajonjolí con maní",
+  "lonchera": "arroz chaufa con mango picado y agua de maracuyá",
+  "almuerzo": "tallarín rojo con atún y papita sancochada con lechuga",
+  "n": 23,
+  "nota_mama": ""
+ },
+ {
+  "fuente": "pdf",
+  "dia": "lunes",
+  "emoji": "🍎",
+  "desayuno": "papa con atún con avena y leche de vaca",
+  "lonchera": "panqueque de plátano con queso, yogurt y manzana , y agua de y agua de cebada",
+  "almuerzo": "arroz con pollo , ensalada de lechuga y cebolla",
+  "n": 24,
+  "nota_mama": ""
+ },
+ {
+  "fuente": "pdf",
+  "dia": "martes",
+  "emoji": "🍎",
+  "desayuno": "pan con guacamole de palta y leche de almendras",
+  "lonchera": "hamburguesa con arándanos y agua de manzana licuada",
+  "almuerzo": "locro de zapallo con huevo frito",
+  "n": 25,
+  "nota_mama": ""
+ },
+ {
+  "fuente": "pdf",
+  "dia": "miercoles",
+  "emoji": "🍎",
+  "desayuno": "pollo deshilachado con apio y mayonesa y pan con leche de 7 semillas",
+  "lonchera": "mazamorra de arroz con leche con frutos secos y 1 plátano y agua de mango licuado",
+  "almuerzo": "fréjol Castilla con chuleta y ensalada",
+  "n": 26,
+  "nota_mama": ""
+ },
+ {
+  "fuente": "pdf",
+  "dia": "jueves",
+  "emoji": "🍎",
+  "desayuno": "coliflor rebosado con arroz y leche de ajonjolí con maní",
+  "lonchera": "tortilla de zanahoria con crema de choco maní, uvas y huevo de codorniz con agua de piña",
+  "almuerzo": "Asado de pollo",
+  "n": 27,
+  "nota_mama": ""
+ },
+ {
+  "fuente": "pdf",
+  "dia": "viernes",
+  "emoji": "🍎",
+  "desayuno": "quinua con manzana y leche pan con camote",
+  "lonchera": "choclo con queso y papita con mandarina y no con mermelada y agua de chicha morada",
+  "almuerzo": "lomito de pollo con alverjita",
+  "n": 28,
+  "nota_mama": ""
+ },
+ {
+  "fuente": "pdf",
+  "dia": "lunes",
+  "emoji": "🍎",
+  "desayuno": "maca con leche y tortilla de queso con papa y cebollita china",
+  "lonchera": "panqueque zanahoria con choco maní y miel con fresas y pistachos y agua de cebada",
+  "almuerzo": "guiso de vainita con pollo picadito",
+  "n": 29,
+  "nota_mama": ""
+ },
+ {
+  "fuente": "pdf",
+  "dia": "martes",
+  "emoji": "🍎",
+  "desayuno": "pan con atún con cebolla y palta y leche de almendras con avena",
+  "lonchera": "pollito a la plancha con papitas doradas , uva y agua de cebada",
+  "almuerzo": "tallarín verde con papa a la huancaína",
+  "n": 30,
+  "nota_mama": ""
+ },
+ {
+  "fuente": "pdf",
+  "dia": "miercoles",
+  "emoji": "🍎",
+  "desayuno": "pollo deshilachado con apio y mayonesa y pan con leche de soya",
+  "lonchera": "mazamorra de arroz con leche con frutos secos y piña y agua de maracuyá",
+  "almuerzo": "alverjita verde con pollo asado y ensalada de lechuga, cebolla y tomate",
+  "n": 31,
+  "nota_mama": ""
+ },
+ {
+  "fuente": "pdf",
+  "dia": "jueves",
+  "emoji": "🍎",
+  "desayuno": "arroz a la cubana con leche de ajonjolí con maní",
+  "lonchera": "pan con queso pizza , con huevo de codorniz, manzana y agua de piña",
+  "almuerzo": "sopa de chuño con carne y choclo",
+  "n": 32,
+  "nota_mama": ""
+ },
+ {
+  "fuente": "pdf",
+  "dia": "viernes",
+  "emoji": "🍎",
+  "desayuno": "quinua entera con manzana y leche con pan con tortilla de espinaca con zanahoria",
+  "lonchera": "choclo con queso y papita con mandarina y pan con mermelada y agua de piña",
+  "almuerzo": "pescado frito con arroz y papa y ensalada",
+  "n": 33,
+  "nota_mama": ""
+ },
+ {
+  "fuente": "pdf",
+  "dia": "martes",
+  "emoji": "🍎",
+  "desayuno": "papa con huevo y crema de pimentón con avena y leche",
+  "lonchera": "bisteck con papitas doradas , uva, plátano y agua de cebada",
+  "almuerzo": "seco de pollo con ensalada de cebolla",
+  "n": 34,
+  "nota_mama": ""
+ },
+ {
+  "fuente": "pdf",
+  "dia": "miercoles",
+  "emoji": "🍎",
+  "desayuno": "papa frita con atún leche de soya",
+  "lonchera": "panqueque de arándanos con leche condensada , manzana y agua de maracuyá",
+  "almuerzo": "sopa de pollo con fideo chino y verduras con choclo y queso",
+  "n": 35,
+  "nota_mama": ""
+ },
+ {
+  "fuente": "pdf",
+  "dia": "jueves",
+  "emoji": "🍎",
+  "desayuno": "chuño con queso y quinua molida",
+  "lonchera": "apanado con arroz , mandarina y agua de piña",
+  "almuerzo": "guiso de coliflor con carne",
+  "n": 36,
+  "nota_mama": ""
+ },
+ {
+  "fuente": "pdf",
+  "dia": "viernes",
+  "emoji": "🍎",
+  "desayuno": "leche de almendras con avena y pan con huevo y queso",
+  "lonchera": "pan con guacamole de palta , mango picado y chifles",
+  "almuerzo": "costillar frito con papas doradas y arroz y ensalada",
+  "n": 37,
+  "nota_mama": ""
+ },
+ {
+  "fuente": "pdf",
+  "dia": "miercoles",
+  "emoji": "🍎",
+  "desayuno": "tortilla con atún y palta leche de soya",
+  "lonchera": "pan con apanado y papitas, granadilla y plátano y chicha morada",
+  "almuerzo": "sopa de pollo con choclo y queso",
+  "n": 38,
+  "nota_mama": ""
+ },
+ {
+  "fuente": "pdf",
+  "dia": "jueves",
+  "emoji": "🍎",
+  "desayuno": "tortilla de verduras con arroz y agua de avena con chocolate",
+  "lonchera": "panqueque de beterraga, quesitos en trocitos, con harina, mandarina y chicha morada",
+  "almuerzo": "ají de gallina",
+  "n": 39,
+  "nota_mama": ""
+ },
+ {
+  "fuente": "pdf",
+  "dia": "viernes",
+  "emoji": "🍎",
+  "desayuno": "leche de almendras con avena y pan con camote",
+  "lonchera": "huevo de codorniz con papita dorada manzana , y fresas",
+  "almuerzo": "tallarín con atún",
+  "n": 40,
+  "nota_mama": ""
+ },
+ {
+  "fuente": "pdf",
+  "dia": "miercoles",
+  "emoji": "🍎",
+  "desayuno": "pan con omelet de huevo y queso y leche de soya",
+  "lonchera": "crepa con arándanos , plátano, con pan con omelet de atún",
+  "almuerzo": "tallarín con pollo, arverjita y papá a la huancaína",
+  "n": 41,
+  "nota_mama": ""
+ },
+ {
+  "fuente": "pdf",
+  "dia": "jueves",
+  "emoji": "🍏",
+  "desayuno": "pan con camote frito con chuleta y avena",
+  "lonchera": "choclo rebosado huevo y ketchup con chicha morada, pera ñ",
+  "almuerzo": "Puré con asado y ensalada de cebolla",
+  "n": 42,
+  "nota_mama": ""
+ },
+ {
+  "fuente": "pdf",
+  "dia": "viernes",
+  "emoji": "🍏",
+  "desayuno": "papa con huevo y qapchi Con agua de chocolate",
+  "lonchera": "pan con pollo y apio con mayonesa, manzana y plátano",
+  "almuerzo": "sopa de menestrón",
+  "n": 43,
+  "nota_mama": ""
+ },
+ {
+  "fuente": "pdf",
+  "dia": "lunes",
+  "emoji": "🍅",
+  "desayuno": "arroz a la cubana con leche de soya",
+  "lonchera": "mango picado, arándanos y pan con queso pizza y agua de cebada",
+  "almuerzo": "locro de zapallo",
+  "n": 44,
+  "nota_mama": ""
+ },
+ {
+  "fuente": "pdf",
+  "dia": "martes",
+  "emoji": "🍅",
+  "desayuno": "papa frita con huevo rebosado y arroz y leche de maca",
+  "lonchera": "yogurt con cereales , manzana y pan con bisteck y agua de cebada",
+  "almuerzo": "escabeche de pollo con lechuga",
+  "n": 45,
+  "nota_mama": ""
+ },
+ {
+  "fuente": "pdf",
+  "dia": "miercoles",
+  "emoji": "🍅",
+  "desayuno": "espinaca con atún y papa sancochada",
+  "lonchera": "pan con palta , plátano y mandarina y agua de manzana",
+  "almuerzo": "quinua con chuleta y ensalada de lechuga , tomate y cebolla",
+  "n": 46,
+  "nota_mama": ""
+ },
+ {
+  "fuente": "pdf",
+  "dia": "jueves",
+  "emoji": "🍅",
+  "desayuno": "papa con queso, cebollita china y huevo con leche de almendras",
+  "lonchera": "pan con pollo deshilachado y apio con manzana y uvas y leche de almendra",
+  "almuerzo": "arverjita verde con pescado …",
+  "n": 47,
+  "nota_mama": ""
+ },
+ {
+  "fuente": "pdf",
+  "dia": null,
+  "emoji": "🍅",
+  "desayuno": "omelet de zanahoria , espinaca y huevo batido con arroz . Con leche con haba",
+  "lonchera": "pan con atún y cebollita y mango picado más manzana y agua",
+  "almuerzo": "pollo dorado con papas fritas, arroz y ensalada de col rallada con zanahoria",
+  "n": 48,
+  "nota_mama": ""
+ },
+ {
+  "fuente": "pdf",
+  "dia": "lunes",
+  "emoji": "🍅",
+  "desayuno": "papa con atún con leche de soya",
+  "lonchera": "pan con huevo frito , durazno , plátano y granadilla y agua de manzanilla",
+  "almuerzo": "lentejas con pollo a la plancha y ensalada",
+  "n": 49,
+  "nota_mama": ""
+ },
+ {
+  "fuente": "pdf",
+  "dia": "martes",
+  "emoji": "🍅",
+  "desayuno": "papa pizza con queso y huevo y cebollita china con leche de maca",
+  "lonchera": "yogurt con granola y fresas y huevo de codorniz y agua de hierbas",
+  "almuerzo": "caigua rellena",
+  "n": 50,
+  "nota_mama": ""
+ },
+ {
+  "fuente": "pdf",
+  "dia": "miercoles",
+  "emoji": "🍅",
+  "desayuno": "pan con camote y morcilla y leche de quinua",
+  "lonchera": "piña picada,manzana y papa con apanado y agua de cebada",
+  "almuerzo": "garbanzo con carne picada y espinaca",
+  "n": 51,
+  "nota_mama": ""
+ },
+ {
+  "fuente": "pdf",
+  "dia": "jueves",
+  "emoji": "🍅",
+  "desayuno": "pan con omelet de zanahoria y leche de almendras",
+  "lonchera": "pan con crema de palta y cebollita, mandarina , uvas y galletita y agua de piña",
+  "almuerzo": "pollo al sillas con camotes",
+  "n": 52,
+  "nota_mama": ""
+ },
+ {
+  "fuente": "pdf",
+  "dia": "martes",
+  "emoji": "🍇",
+  "desayuno": "omelet de huevo con espinaca con y queso rallado y Pancito con avena",
+  "lonchera": "panqueque con arándanos y Nutella ,mandarina y huevo de codorniz con agua de linaza y limón",
+  "almuerzo": "ensalada rusa con alitas Broaster",
+  "n": 53,
+  "nota_mama": ""
+ },
+ {
+  "fuente": "pdf",
+  "dia": "jueves",
+  "emoji": "🍇",
+  "desayuno": "palta con atún y Pancito y leche de almendras",
+  "lonchera": "fresas con leche condensada , pan con huevo frito y jugo de plátano con leche",
+  "almuerzo": "caldo de pollo tipo caldo de gallina",
+  "n": 54,
+  "nota_mama": ""
+ },
+ {
+  "fuente": "pdf",
+  "dia": "viernes",
+  "emoji": "🍇",
+  "desayuno": "pan con camote , 1 huevo cocido y chocolate con avena",
+  "lonchera": "Arroz chaufa con pollito y huevo ,mandarina y agua de manzana",
+  "almuerzo": "vainita saltada",
+  "n": 55,
+  "nota_mama": ""
+ },
+ {
+  "fuente": "pdf",
+  "dia": null,
+  "emoji": "🍇",
+  "desayuno": "pan con papa frita con huevo rebosado avena con chocolate",
+  "lonchera": "pan tostada con mermelada , huevo de codorniz, agua de manzana rallada y plátano",
+  "almuerzo": "caldo de gallina con sopa de munición",
+  "n": 56,
+  "nota_mama": ""
+ },
+ {
+  "fuente": "pdf",
+  "dia": null,
+  "emoji": "🍇",
+  "desayuno": "atún con arroz con soya",
+  "lonchera": "pan con pollo a la plancha y ketchup , manzana y uvas y agua de manzanilla",
+  "almuerzo": "tallarín verde con papa a la huancaína y",
+  "n": 57,
+  "nota_mama": "pollo al vapor con papa a la huancaína y lechuga"
+ },
+ {
+  "fuente": "pdf",
+  "dia": null,
+  "emoji": "🍇",
+  "desayuno": "panqueque de zanahoria con queso mozarella y palta con pollo y leche de 7 semillas",
+  "lonchera": "hamburguesa con huevo frito, plátano y mango y agua de maracuyá",
+  "almuerzo": "guiso de coliflor con carne",
+  "n": 58,
+  "nota_mama": ""
+ },
+ {
+  "fuente": "pdf",
+  "dia": null,
+  "emoji": "🍇",
+  "desayuno": "arroz a la cubana con leche de ajonjolí",
+  "lonchera": "",
+  "almuerzo": "garbanzo con espinaca y carne picada",
+  "n": 59,
+  "nota_mama": "2 huevos cocidos con 1/2 plátano sancochado y arándanos"
+ },
+ {
+  "fuente": "pdf",
+  "dia": "lunes",
+  "emoji": "🍇",
+  "desayuno": "leche de almendras y pan con tortilla de zanahoria con espinaca",
+  "lonchera": "pan con huevo frito , jugo de leche con fresa, chifles agua de carambola",
+  "almuerzo": "lentejita con carne de chanchito",
+  "n": 60,
+  "nota_mama": ""
+ },
+ {
+  "fuente": "pdf",
+  "dia": "martes",
+  "emoji": "🍇",
+  "desayuno": "pan con atún con cebolla y tomate y leche de 7 semillas",
+  "lonchera": "pollito a la plancha con papitas doradas , uva y plátano y agua de carambola",
+  "almuerzo": "tallarín saltado",
+  "n": 61,
+  "nota_mama": ""
+ },
+ {
+  "fuente": "pdf",
+  "dia": "miercoles",
+  "emoji": "🍇",
+  "desayuno": "pollo deshilachado con apio y mayonesa y pan con leche de soya",
+  "lonchera": "mazamorra de piña con leche con trocitos de piña, huevo de codorniz, mandarina y chicha morada",
+  "almuerzo": "frijol castilla con pollo asado y ensalada de lechuga, cebolla y tomate",
+  "n": 62,
+  "nota_mama": ""
+ },
+ {
+  "fuente": "pdf",
+  "dia": "jueves",
+  "emoji": "🍇",
+  "desayuno": "arroz chaufa con pollito y huevo con leche de ajonjolí y maní",
+  "lonchera": "pan con queso pizza, arándanos y yogurt",
+  "almuerzo": "sopa de menestron",
+  "n": 63,
+  "nota_mama": ""
+ },
+ {
+  "fuente": "pdf",
+  "dia": null,
+  "emoji": "🍇",
+  "desayuno": "sancochado con papa y crema de pimentón con leche y chocolate",
+  "lonchera": "plátano, uvas omelet de huevo con zanahoria y Pancito",
+  "almuerzo": "",
+  "n": 64,
+  "nota_mama": "agua de manzanilla"
+ },
+ {
+  "fuente": "pdf",
+  "dia": null,
+  "emoji": "🍇",
+  "desayuno": "guacamole de palta con cebolla con mote con avena y leche y Pancito",
+  "lonchera": "manzana y plátano con pollo dorado deshilachado y papas doradas con mayonesa y agua de cebada",
+  "almuerzo": "teccte de arverjas",
+  "n": 65,
+  "nota_mama": ""
+ },
+ {
+  "fuente": "pdf",
+  "dia": null,
+  "emoji": "🍇",
+  "desayuno": "papa frita con atun",
+  "lonchera": "arroz con huevo frito, leche con arándanos, mandarina",
+  "almuerzo": "guiso de vainita con carne",
+  "n": 66,
+  "nota_mama": "papa sancochada con atún y 7 semillas con leche"
+ },
+ {
+  "fuente": "pdf",
+  "dia": null,
+  "emoji": "🍇",
+  "desayuno": "pizza de papa con cebollita china, queso parmesano y huevo. Con leche de quinua licuada",
+  "lonchera": "yogurt con granola , uvas y pan blanco tostado con crema de queso y agua de manzana",
+  "almuerzo": "tallarín saltado con brócoli, pimentón, cebolla , tomate y pollo",
+  "n": 67,
+  "nota_mama": "avena cocida con manzana y plátano y canela y leche de quinua"
+ },
+ {
+  "fuente": "pdf",
+  "dia": "lunes",
+  "emoji": "🍇",
+  "desayuno": "omelet de zanahoria con atún y palta y leche de almendras con avena",
+  "lonchera": "tortilla con queso y orégano, piña y mandarina y agua de cebada",
+  "almuerzo": "patita con maní",
+  "n": 68,
+  "nota_mama": ""
+ },
+ {
+  "fuente": "pdf",
+  "dia": "martes",
+  "emoji": "🍒",
+  "desayuno": "Morcilla con camote y pan y chocolate con leche",
+  "lonchera": "pollo deshilachado dorado con papita dorada y ketchup, arándanos y plátano y agua de cebada",
+  "almuerzo": "olluco con queso y leche",
+  "n": 69,
+  "nota_mama": ""
+ },
+ {
+  "fuente": "pdf",
+  "dia": "miercoles",
+  "emoji": "🍒",
+  "desayuno": "tortilla de brócoli con queso y leche de habas",
+  "lonchera": "pan con carne molida dorada tipo bisteck con lechuga y agua de maracuyá con mango picado y fresas picada",
+  "almuerzo": "aji de gallina",
+  "n": 70,
+  "nota_mama": ""
+ },
+ {
+  "fuente": "pdf",
+  "dia": "jueves",
+  "emoji": "🍒",
+  "desayuno": "Avena con manzana y leche de soya con pan",
+  "lonchera": "huevo de codorniz con yogurt , arándanos y granola y chicha morada",
+  "almuerzo": "lomo saltado",
+  "n": 71,
+  "nota_mama": ""
+ },
+ {
+  "fuente": "pdf",
+  "dia": "viernes",
+  "emoji": "🍒",
+  "desayuno": "huevo sancochado con papa y ensalada de pepino con tomate con leche de maní",
+  "lonchera": "arroz chaufa con pollito , pera y plátano y chicha morada",
+  "almuerzo": "pica picante con chicharrón y ensalada",
+  "n": 72,
+  "nota_mama": ""
+ },
+ {
+  "fuente": "pdf",
+  "dia": "lunes",
+  "emoji": "🍒",
+  "desayuno": "atún con espinaca y papá sancochada con avena con manzana y leche",
+  "lonchera": "omelet de huevo con zanahoria , pan tostado con queso , y plátano y agua de maracuyá",
+  "almuerzo": "arverjita con pollo asado y ensalada de pepino con lechuga y cebolla",
+  "n": 73,
+  "nota_mama": ""
+ },
+ {
+  "fuente": "pdf",
+  "dia": "martes",
+  "emoji": "🍒",
+  "desayuno": "guacamole de palta con pan y agua de quinua tostada con leche",
+  "lonchera": "yogurt con cereal , huevo de codorniz , mandarina y pera y agua de cebada",
+  "almuerzo": "escabeche de pollo",
+  "n": 74,
+  "nota_mama": ""
+ },
+ {
+  "fuente": "pdf",
+  "dia": "miercoles",
+  "emoji": "🍒",
+  "desayuno": "coliflor rebosado con huevo y arroz y leche de almendras",
+  "lonchera": "milanesa de pollo con pan y lechuga con manzana, plátano y agua de cebada",
+  "almuerzo": "CAU CAU de pollo",
+  "n": 75,
+  "nota_mama": ""
+ },
+ {
+  "fuente": "pdf",
+  "dia": "jueves",
+  "emoji": "🍒",
+  "desayuno": "pan con omelet de espinaca y zanahoria y 7 semillas",
+  "lonchera": "mazamorra de mango con leche y arroz , uvas y chifles",
+  "almuerzo": "sopa de chuño con carne y choclo",
+  "n": 76,
+  "nota_mama": ""
+ },
+ {
+  "fuente": "pdf",
+  "dia": "lunes",
+  "emoji": "🍋",
+  "desayuno": "avena con leche con papas fritas y atún rebosado",
+  "lonchera": "ensalada de frutas con granola huevos de codorniz y agua de piña",
+  "almuerzo": "Lentejas o fréjol Castillas con tilapia frita y ensalada mixta",
+  "n": 77,
+  "nota_mama": "papa sancochada"
+ },
+ {
+  "fuente": "pdf",
+  "dia": null,
+  "emoji": "🍋",
+  "desayuno": "arroz a la cubana. Solo para los tres. Mi mamá ya no . Con 7 semillas",
+  "lonchera": "",
+  "almuerzo": "",
+  "n": 78,
+  "nota_mama": ""
+ },
+ {
+  "fuente": "pdf",
+  "dia": null,
+  "emoji": "🍋",
+  "desayuno": "papa con huevo sancochado y ensalada de cebolla con agua de quinua tostada con leche",
+  "lonchera": "batido de leche con arandanos, pan tostado con pollo deshilachado y apio y mayonesa , y manzana y agua de chicha morada",
+  "almuerzo": "apanado con papas fritas , arroz y ensalada",
+  "n": 79,
+  "nota_mama": ""
+ }
+]

@@ -1,0 +1,946 @@
+[
+ {
+  "id": "zanahoria",
+  "nombre": "Zanahoria",
+  "grupo": "Verduras",
+  "compra": "kg",
+  "basico": false,
+  "peso_unidad_g": null
+ },
+ {
+  "id": "espinaca",
+  "nombre": "Espinaca",
+  "grupo": "Verduras",
+  "compra": "atado",
+  "basico": false,
+  "peso_unidad_g": 250.0
+ },
+ {
+  "id": "brocoli",
+  "nombre": "Brócoli",
+  "grupo": "Verduras",
+  "compra": "kg",
+  "basico": false,
+  "peso_unidad_g": null
+ },
+ {
+  "id": "coliflor",
+  "nombre": "Coliflor",
+  "grupo": "Verduras",
+  "compra": "kg",
+  "basico": false,
+  "peso_unidad_g": null
+ },
+ {
+  "id": "lechuga",
+  "nombre": "Lechuga",
+  "grupo": "Verduras",
+  "compra": "u",
+  "basico": false,
+  "peso_unidad_g": 400.0
+ },
+ {
+  "id": "tomate",
+  "nombre": "Tomate",
+  "grupo": "Verduras",
+  "compra": "kg",
+  "basico": false,
+  "peso_unidad_g": 120.0
+ },
+ {
+  "id": "cebolla",
+  "nombre": "Cebolla roja",
+  "grupo": "Verduras",
+  "compra": "kg",
+  "basico": false,
+  "peso_unidad_g": 150.0
+ },
+ {
+  "id": "cebolla_china",
+  "nombre": "Cebolla china",
+  "grupo": "Verduras",
+  "compra": "atado",
+  "basico": false,
+  "peso_unidad_g": 150.0
+ },
+ {
+  "id": "pepino",
+  "nombre": "Pepino",
+  "grupo": "Verduras",
+  "compra": "u",
+  "basico": false,
+  "peso_unidad_g": 200.0
+ },
+ {
+  "id": "apio",
+  "nombre": "Apio",
+  "grupo": "Verduras",
+  "compra": "atado",
+  "basico": false,
+  "peso_unidad_g": 200.0
+ },
+ {
+  "id": "zapallo",
+  "nombre": "Zapallo",
+  "grupo": "Verduras",
+  "compra": "kg",
+  "basico": false,
+  "peso_unidad_g": null
+ },
+ {
+  "id": "choclo",
+  "nombre": "Choclo (mazorca)",
+  "grupo": "Verduras",
+  "compra": "u",
+  "basico": false,
+  "peso_unidad_g": 250.0
+ },
+ {
+  "id": "vainita",
+  "nombre": "Vainita",
+  "grupo": "Verduras",
+  "compra": "kg",
+  "basico": false,
+  "peso_unidad_g": null
+ },
+ {
+  "id": "arveja",
+  "nombre": "Arveja verde (desgranada)",
+  "grupo": "Verduras",
+  "compra": "kg",
+  "basico": false,
+  "peso_unidad_g": null
+ },
+ {
+  "id": "caigua",
+  "nombre": "Caigua",
+  "grupo": "Verduras",
+  "compra": "kg",
+  "basico": false,
+  "peso_unidad_g": 75.0
+ },
+ {
+  "id": "olluco",
+  "nombre": "Olluco",
+  "grupo": "Verduras",
+  "compra": "kg",
+  "basico": false,
+  "peso_unidad_g": null
+ },
+ {
+  "id": "pimiento",
+  "nombre": "Pimiento",
+  "grupo": "Verduras",
+  "compra": "u",
+  "basico": false,
+  "peso_unidad_g": 150.0
+ },
+ {
+  "id": "aji_amarillo",
+  "nombre": "Ají amarillo",
+  "grupo": "Verduras",
+  "compra": "kg",
+  "basico": false,
+  "peso_unidad_g": null
+ },
+ {
+  "id": "aji_panca",
+  "nombre": "Ají panca (pasta)",
+  "grupo": "Abarrotes",
+  "compra": "frasco",
+  "basico": false,
+  "peso_unidad_g": 200.0
+ },
+ {
+  "id": "repollo",
+  "nombre": "Col / repollo",
+  "grupo": "Verduras",
+  "compra": "kg",
+  "basico": false,
+  "peso_unidad_g": null
+ },
+ {
+  "id": "betarraga",
+  "nombre": "Betarraga",
+  "grupo": "Verduras",
+  "compra": "kg",
+  "basico": false,
+  "peso_unidad_g": null
+ },
+ {
+  "id": "culantro",
+  "nombre": "Culantro",
+  "grupo": "Verduras",
+  "compra": "atado",
+  "basico": false,
+  "peso_unidad_g": 100.0
+ },
+ {
+  "id": "albahaca",
+  "nombre": "Albahaca",
+  "grupo": "Verduras",
+  "compra": "atado",
+  "basico": false,
+  "peso_unidad_g": 50.0
+ },
+ {
+  "id": "kion",
+  "nombre": "Kion",
+  "grupo": "Verduras",
+  "compra": "kg",
+  "basico": false,
+  "peso_unidad_g": null
+ },
+ {
+  "id": "limon",
+  "nombre": "Limón",
+  "grupo": "Verduras",
+  "compra": "kg",
+  "basico": false,
+  "peso_unidad_g": 40.0
+ },
+ {
+  "id": "ajo",
+  "nombre": "Ajo",
+  "grupo": "Básicos",
+  "compra": "cabeza",
+  "basico": true,
+  "peso_unidad_g": null
+ },
+ {
+  "id": "maiz_morado",
+  "nombre": "Maíz morado",
+  "grupo": "Abarrotes",
+  "compra": "kg",
+  "basico": false,
+  "peso_unidad_g": null
+ },
+ {
+  "id": "hierba_luisa",
+  "nombre": "Hierba luisa",
+  "grupo": "Verduras",
+  "compra": "atado",
+  "basico": false,
+  "peso_unidad_g": 50.0
+ },
+ {
+  "id": "manzanilla",
+  "nombre": "Manzanilla",
+  "grupo": "Abarrotes",
+  "compra": "paquete",
+  "basico": false,
+  "peso_unidad_g": 25.0
+ },
+ {
+  "id": "papa",
+  "nombre": "Papa blanca",
+  "grupo": "Tubérculos",
+  "compra": "kg",
+  "basico": false,
+  "peso_unidad_g": null
+ },
+ {
+  "id": "papa_amarilla",
+  "nombre": "Papa amarilla",
+  "grupo": "Tubérculos",
+  "compra": "kg",
+  "basico": false,
+  "peso_unidad_g": null
+ },
+ {
+  "id": "camote",
+  "nombre": "Camote",
+  "grupo": "Tubérculos",
+  "compra": "kg",
+  "basico": false,
+  "peso_unidad_g": null
+ },
+ {
+  "id": "chuno",
+  "nombre": "Chuño",
+  "grupo": "Tubérculos",
+  "compra": "kg",
+  "basico": false,
+  "peso_unidad_g": null
+ },
+ {
+  "id": "manzana",
+  "nombre": "Manzana",
+  "grupo": "Frutas",
+  "compra": "kg",
+  "basico": false,
+  "peso_unidad_g": 150.0
+ },
+ {
+  "id": "platano",
+  "nombre": "Plátano de seda",
+  "grupo": "Frutas",
+  "compra": "u",
+  "basico": false,
+  "peso_unidad_g": 120.0
+ },
+ {
+  "id": "platano_freir",
+  "nombre": "Plátano de freír",
+  "grupo": "Frutas",
+  "compra": "u",
+  "basico": false,
+  "peso_unidad_g": 200.0
+ },
+ {
+  "id": "mandarina",
+  "nombre": "Mandarina",
+  "grupo": "Frutas",
+  "compra": "kg",
+  "basico": false,
+  "peso_unidad_g": 90.0
+ },
+ {
+  "id": "pina",
+  "nombre": "Piña",
+  "grupo": "Frutas",
+  "compra": "u",
+  "basico": false,
+  "peso_unidad_g": 1500.0
+ },
+ {
+  "id": "mango",
+  "nombre": "Mango",
+  "grupo": "Frutas",
+  "compra": "u",
+  "basico": false,
+  "peso_unidad_g": 350.0
+ },
+ {
+  "id": "uva",
+  "nombre": "Uva",
+  "grupo": "Frutas",
+  "compra": "kg",
+  "basico": false,
+  "peso_unidad_g": null
+ },
+ {
+  "id": "arandano",
+  "nombre": "Arándano",
+  "grupo": "Frutas",
+  "compra": "bandeja",
+  "basico": false,
+  "peso_unidad_g": 125.0
+ },
+ {
+  "id": "fresa",
+  "nombre": "Fresa",
+  "grupo": "Frutas",
+  "compra": "kg",
+  "basico": false,
+  "peso_unidad_g": null
+ },
+ {
+  "id": "pera",
+  "nombre": "Pera",
+  "grupo": "Frutas",
+  "compra": "kg",
+  "basico": false,
+  "peso_unidad_g": 170.0
+ },
+ {
+  "id": "durazno",
+  "nombre": "Durazno",
+  "grupo": "Frutas",
+  "compra": "kg",
+  "basico": false,
+  "peso_unidad_g": 120.0
+ },
+ {
+  "id": "granadilla",
+  "nombre": "Granadilla",
+  "grupo": "Frutas",
+  "compra": "u",
+  "basico": false,
+  "peso_unidad_g": 100.0
+ },
+ {
+  "id": "aguaymanto",
+  "nombre": "Aguaymanto",
+  "grupo": "Frutas",
+  "compra": "bandeja",
+  "basico": false,
+  "peso_unidad_g": 125.0
+ },
+ {
+  "id": "papaya",
+  "nombre": "Papaya",
+  "grupo": "Frutas",
+  "compra": "kg",
+  "basico": false,
+  "peso_unidad_g": null
+ },
+ {
+  "id": "higo",
+  "nombre": "Higo",
+  "grupo": "Frutas",
+  "compra": "kg",
+  "basico": false,
+  "peso_unidad_g": 60.0
+ },
+ {
+  "id": "carambola",
+  "nombre": "Carambola",
+  "grupo": "Frutas",
+  "compra": "kg",
+  "basico": false,
+  "peso_unidad_g": 100.0
+ },
+ {
+  "id": "maracuya",
+  "nombre": "Maracuyá",
+  "grupo": "Frutas",
+  "compra": "kg",
+  "basico": false,
+  "peso_unidad_g": 80.0
+ },
+ {
+  "id": "palta",
+  "nombre": "Palta",
+  "grupo": "Frutas",
+  "compra": "u",
+  "basico": false,
+  "peso_unidad_g": 200.0
+ },
+ {
+  "id": "tamarindo",
+  "nombre": "Tamarindo",
+  "grupo": "Frutas",
+  "compra": "kg",
+  "basico": false,
+  "peso_unidad_g": null
+ },
+ {
+  "id": "guanabana",
+  "nombre": "Guanábana (pulpa)",
+  "grupo": "Frutas",
+  "compra": "kg",
+  "basico": false,
+  "peso_unidad_g": null
+ },
+ {
+  "id": "pollo",
+  "nombre": "Pollo (pechuga o pierna)",
+  "grupo": "Carnes y pescados",
+  "compra": "kg",
+  "basico": false,
+  "peso_unidad_g": null
+ },
+ {
+  "id": "alitas",
+  "nombre": "Alitas de pollo",
+  "grupo": "Carnes y pescados",
+  "compra": "kg",
+  "basico": false,
+  "peso_unidad_g": null
+ },
+ {
+  "id": "res",
+  "nombre": "Carne de res (bistec / guiso)",
+  "grupo": "Carnes y pescados",
+  "compra": "kg",
+  "basico": false,
+  "peso_unidad_g": null
+ },
+ {
+  "id": "carne_molida",
+  "nombre": "Carne molida",
+  "grupo": "Carnes y pescados",
+  "compra": "kg",
+  "basico": false,
+  "peso_unidad_g": null
+ },
+ {
+  "id": "cerdo",
+  "nombre": "Cerdo (chuleta)",
+  "grupo": "Carnes y pescados",
+  "compra": "kg",
+  "basico": false,
+  "peso_unidad_g": null
+ },
+ {
+  "id": "patita",
+  "nombre": "Patita de cerdo",
+  "grupo": "Carnes y pescados",
+  "compra": "kg",
+  "basico": false,
+  "peso_unidad_g": null
+ },
+ {
+  "id": "costillar",
+  "nombre": "Costillar de cerdo",
+  "grupo": "Carnes y pescados",
+  "compra": "kg",
+  "basico": false,
+  "peso_unidad_g": null
+ },
+ {
+  "id": "morcilla",
+  "nombre": "Morcilla",
+  "grupo": "Carnes y pescados",
+  "compra": "kg",
+  "basico": false,
+  "peso_unidad_g": null
+ },
+ {
+  "id": "atun_lata",
+  "nombre": "Atún en lata",
+  "grupo": "Carnes y pescados",
+  "compra": "lata",
+  "basico": false,
+  "peso_unidad_g": 140.0
+ },
+ {
+  "id": "lomo_atun",
+  "nombre": "Lomo de atún",
+  "grupo": "Carnes y pescados",
+  "compra": "kg",
+  "basico": false,
+  "peso_unidad_g": null
+ },
+ {
+  "id": "pescado",
+  "nombre": "Pescado fresco (tilapia, jurel o bonito)",
+  "grupo": "Carnes y pescados",
+  "compra": "kg",
+  "basico": false,
+  "peso_unidad_g": null
+ },
+ {
+  "id": "cabeza_pescado",
+  "nombre": "Cabeza de pescado (para chilcano)",
+  "grupo": "Carnes y pescados",
+  "compra": "u",
+  "basico": false,
+  "peso_unidad_g": 300.0
+ },
+ {
+  "id": "huevo",
+  "nombre": "Huevo",
+  "grupo": "Lácteos y huevos",
+  "compra": "docena",
+  "basico": false,
+  "peso_unidad_g": 55.0
+ },
+ {
+  "id": "huevo_codorniz",
+  "nombre": "Huevo de codorniz",
+  "grupo": "Lácteos y huevos",
+  "compra": "docena",
+  "basico": false,
+  "peso_unidad_g": 12.0
+ },
+ {
+  "id": "queso_fresco",
+  "nombre": "Queso fresco",
+  "grupo": "Lácteos y huevos",
+  "compra": "kg",
+  "basico": false,
+  "peso_unidad_g": null
+ },
+ {
+  "id": "queso_mozzarella",
+  "nombre": "Queso mozzarella",
+  "grupo": "Lácteos y huevos",
+  "compra": "kg",
+  "basico": false,
+  "peso_unidad_g": null
+ },
+ {
+  "id": "queso_parmesano",
+  "nombre": "Queso parmesano",
+  "grupo": "Lácteos y huevos",
+  "compra": "paquete",
+  "basico": false,
+  "peso_unidad_g": 100.0
+ },
+ {
+  "id": "leche",
+  "nombre": "Leche",
+  "grupo": "Lácteos y huevos",
+  "compra": "litro",
+  "basico": false,
+  "peso_unidad_g": null
+ },
+ {
+  "id": "leche_evaporada",
+  "nombre": "Leche evaporada",
+  "grupo": "Lácteos y huevos",
+  "compra": "lata",
+  "basico": false,
+  "peso_unidad_g": 400.0
+ },
+ {
+  "id": "leche_condensada",
+  "nombre": "Leche condensada",
+  "grupo": "Lácteos y huevos",
+  "compra": "lata",
+  "basico": false,
+  "peso_unidad_g": 400.0
+ },
+ {
+  "id": "yogurt",
+  "nombre": "Yogurt",
+  "grupo": "Lácteos y huevos",
+  "compra": "litro",
+  "basico": false,
+  "peso_unidad_g": null
+ },
+ {
+  "id": "mantequilla",
+  "nombre": "Mantequilla",
+  "grupo": "Lácteos y huevos",
+  "compra": "paquete",
+  "basico": false,
+  "peso_unidad_g": 200.0
+ },
+ {
+  "id": "arroz",
+  "nombre": "Arroz",
+  "grupo": "Menestras y granos",
+  "compra": "kg",
+  "basico": false,
+  "peso_unidad_g": null
+ },
+ {
+  "id": "lenteja",
+  "nombre": "Lenteja",
+  "grupo": "Menestras y granos",
+  "compra": "kg",
+  "basico": false,
+  "peso_unidad_g": null
+ },
+ {
+  "id": "frijol_canario",
+  "nombre": "Frijol canario",
+  "grupo": "Menestras y granos",
+  "compra": "kg",
+  "basico": false,
+  "peso_unidad_g": null
+ },
+ {
+  "id": "frejol_castilla",
+  "nombre": "Fréjol Castilla",
+  "grupo": "Menestras y granos",
+  "compra": "kg",
+  "basico": false,
+  "peso_unidad_g": null
+ },
+ {
+  "id": "garbanzo",
+  "nombre": "Garbanzo",
+  "grupo": "Menestras y granos",
+  "compra": "kg",
+  "basico": false,
+  "peso_unidad_g": null
+ },
+ {
+  "id": "arveja_seca",
+  "nombre": "Arveja seca",
+  "grupo": "Menestras y granos",
+  "compra": "kg",
+  "basico": false,
+  "peso_unidad_g": null
+ },
+ {
+  "id": "quinua",
+  "nombre": "Quinua",
+  "grupo": "Menestras y granos",
+  "compra": "kg",
+  "basico": false,
+  "peso_unidad_g": null
+ },
+ {
+  "id": "avena",
+  "nombre": "Avena",
+  "grupo": "Menestras y granos",
+  "compra": "kg",
+  "basico": false,
+  "peso_unidad_g": null
+ },
+ {
+  "id": "cebada",
+  "nombre": "Cebada perlada",
+  "grupo": "Menestras y granos",
+  "compra": "kg",
+  "basico": false,
+  "peso_unidad_g": null
+ },
+ {
+  "id": "granola",
+  "nombre": "Granola / cereal",
+  "grupo": "Menestras y granos",
+  "compra": "bolsa",
+  "basico": false,
+  "peso_unidad_g": 400.0
+ },
+ {
+  "id": "haba_seca",
+  "nombre": "Haba seca",
+  "grupo": "Menestras y granos",
+  "compra": "kg",
+  "basico": false,
+  "peso_unidad_g": null
+ },
+ {
+  "id": "soya",
+  "nombre": "Soya en grano",
+  "grupo": "Menestras y granos",
+  "compra": "kg",
+  "basico": false,
+  "peso_unidad_g": null
+ },
+ {
+  "id": "almendra",
+  "nombre": "Almendras",
+  "grupo": "Menestras y granos",
+  "compra": "bolsa",
+  "basico": false,
+  "peso_unidad_g": 100.0
+ },
+ {
+  "id": "mani",
+  "nombre": "Maní",
+  "grupo": "Menestras y granos",
+  "compra": "kg",
+  "basico": false,
+  "peso_unidad_g": null
+ },
+ {
+  "id": "ajonjoli",
+  "nombre": "Ajonjolí",
+  "grupo": "Menestras y granos",
+  "compra": "bolsa",
+  "basico": false,
+  "peso_unidad_g": 100.0
+ },
+ {
+  "id": "semillas7",
+  "nombre": "Mezcla de 7 semillas",
+  "grupo": "Menestras y granos",
+  "compra": "bolsa",
+  "basico": false,
+  "peso_unidad_g": 250.0
+ },
+ {
+  "id": "maca",
+  "nombre": "Maca en polvo",
+  "grupo": "Menestras y granos",
+  "compra": "bolsa",
+  "basico": false,
+  "peso_unidad_g": 100.0
+ },
+ {
+  "id": "cereales_molidos",
+  "nombre": "Cereales molidos",
+  "grupo": "Menestras y granos",
+  "compra": "bolsa",
+  "basico": false,
+  "peso_unidad_g": 250.0
+ },
+ {
+  "id": "linaza",
+  "nombre": "Linaza",
+  "grupo": "Menestras y granos",
+  "compra": "bolsa",
+  "basico": false,
+  "peso_unidad_g": 200.0
+ },
+ {
+  "id": "tallarin",
+  "nombre": "Tallarín",
+  "grupo": "Fideos",
+  "compra": "paquete",
+  "basico": false,
+  "peso_unidad_g": 500.0
+ },
+ {
+  "id": "fideo_corto",
+  "nombre": "Fideo corto / chino",
+  "grupo": "Fideos",
+  "compra": "paquete",
+  "basico": false,
+  "peso_unidad_g": 250.0
+ },
+ {
+  "id": "fideo_municion",
+  "nombre": "Fideo munición",
+  "grupo": "Fideos",
+  "compra": "paquete",
+  "basico": false,
+  "peso_unidad_g": 250.0
+ },
+ {
+  "id": "pan_frances",
+  "nombre": "Pan francés",
+  "grupo": "Panadería",
+  "compra": "u",
+  "basico": false,
+  "peso_unidad_g": 45.0
+ },
+ {
+  "id": "pan_molde",
+  "nombre": "Pan de molde",
+  "grupo": "Panadería",
+  "compra": "paquete",
+  "basico": false,
+  "peso_unidad_g": 500.0
+ },
+ {
+  "id": "galleta_soda",
+  "nombre": "Galleta de soda",
+  "grupo": "Panadería",
+  "compra": "paquete",
+  "basico": false,
+  "peso_unidad_g": 40.0
+ },
+ {
+  "id": "harina",
+  "nombre": "Harina de trigo",
+  "grupo": "Abarrotes",
+  "compra": "kg",
+  "basico": false,
+  "peso_unidad_g": null
+ },
+ {
+  "id": "pan_rallado",
+  "nombre": "Pan rallado",
+  "grupo": "Abarrotes",
+  "compra": "paquete",
+  "basico": false,
+  "peso_unidad_g": 200.0
+ },
+ {
+  "id": "aceite",
+  "nombre": "Aceite",
+  "grupo": "Básicos",
+  "compra": "botella",
+  "basico": true,
+  "peso_unidad_g": null
+ },
+ {
+  "id": "sal",
+  "nombre": "Sal",
+  "grupo": "Básicos",
+  "compra": "bolsa",
+  "basico": true,
+  "peso_unidad_g": null
+ },
+ {
+  "id": "azucar",
+  "nombre": "Azúcar",
+  "grupo": "Básicos",
+  "compra": "kg",
+  "basico": true,
+  "peso_unidad_g": null
+ },
+ {
+  "id": "canela",
+  "nombre": "Canela",
+  "grupo": "Básicos",
+  "compra": "paquete",
+  "basico": true,
+  "peso_unidad_g": null
+ },
+ {
+  "id": "vainilla",
+  "nombre": "Esencia de vainilla",
+  "grupo": "Básicos",
+  "compra": "frasco",
+  "basico": true,
+  "peso_unidad_g": null
+ },
+ {
+  "id": "oregano",
+  "nombre": "Orégano",
+  "grupo": "Básicos",
+  "compra": "paquete",
+  "basico": true,
+  "peso_unidad_g": null
+ },
+ {
+  "id": "comino",
+  "nombre": "Comino",
+  "grupo": "Básicos",
+  "compra": "paquete",
+  "basico": true,
+  "peso_unidad_g": null
+ },
+ {
+  "id": "mermelada",
+  "nombre": "Mermelada",
+  "grupo": "Abarrotes",
+  "compra": "frasco",
+  "basico": false,
+  "peso_unidad_g": 300.0
+ },
+ {
+  "id": "mayonesa",
+  "nombre": "Mayonesa",
+  "grupo": "Abarrotes",
+  "compra": "frasco",
+  "basico": false,
+  "peso_unidad_g": 200.0
+ },
+ {
+  "id": "ketchup",
+  "nombre": "Ketchup",
+  "grupo": "Abarrotes",
+  "compra": "frasco",
+  "basico": false,
+  "peso_unidad_g": 200.0
+ },
+ {
+  "id": "crema_choco_mani",
+  "nombre": "Crema de choco maní",
+  "grupo": "Abarrotes",
+  "compra": "frasco",
+  "basico": false,
+  "peso_unidad_g": 350.0
+ },
+ {
+  "id": "chocolate_polvo",
+  "nombre": "Chocolate en polvo",
+  "grupo": "Abarrotes",
+  "compra": "bolsa",
+  "basico": false,
+  "peso_unidad_g": 200.0
+ },
+ {
+  "id": "sillao",
+  "nombre": "Sillao (salsa de soya)",
+  "grupo": "Abarrotes",
+  "compra": "frasco",
+  "basico": false,
+  "peso_unidad_g": 150.0
+ },
+ {
+  "id": "vinagre",
+  "nombre": "Vinagre",
+  "grupo": "Abarrotes",
+  "compra": "botella",
+  "basico": false,
+  "peso_unidad_g": 500.0
+ },
+ {
+  "id": "pasas",
+  "nombre": "Pasas",
+  "grupo": "Abarrotes",
+  "compra": "bolsa",
+  "basico": false,
+  "peso_unidad_g": 100.0
+ },
+ {
+  "id": "palillo",
+  "nombre": "Palillo (cúrcuma)",
+  "grupo": "Abarrotes",
+  "compra": "paquete",
+  "basico": false,
+  "peso_unidad_g": 50.0
+ }
+]
